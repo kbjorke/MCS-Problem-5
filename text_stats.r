@@ -2,8 +2,7 @@
 
 args = commandArgs(trailingOnly = TRUE)
 
-# filename = args[1]
-filename = "test_pg2600.txt"
+filename = args[1]
 
 # Read the text file of reference textr:
 reference_text_original = readLines(filename)
@@ -100,8 +99,8 @@ write.table(transprob_matrix,
 
 
 # Read out transition matrix, to be used in encryption script:
-transprob_matrix_readout = read.table("matrix.txt", header=TRUE)
-transprob_matrix_ = data.matrix(transprob_matrix)
+#transprob_matrix_readout = read.table("matrix.txt", header=TRUE)
+#transprob_matrix_ = data.matrix(transprob_matrix)
 
 
 # Create .eps figure of transition probability matrix:
@@ -109,7 +108,7 @@ setEPS()
 postscript(sprintf("transprob_matrix-%s-.eps", gsub(".txt", "", filename)))
 
 library(lattice)
-levelplot(t(apply(transprob_matrix_, 2, rev)), 
+levelplot(t(apply(transprob_matrix, 2, rev)), 
           col.regions = gray(1-0:255/255),
           main=sprintf('Transition probablity matrix for "%s"', 
                        filename),

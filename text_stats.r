@@ -3,7 +3,6 @@
 args = commandArgs(trailingOnly = TRUE)
 
 filename = args[1]
-#filename = "test_pg2600.txt"
 
 # Read the text file of reference textr:
 reference_text_original = readLines(filename)
@@ -111,20 +110,11 @@ write.table(transprob_matrix,
             file=sprintf("transprob_matrix-%s-.txt", 
                          gsub(".txt", "", filename)))
 
-
-# Read out transition matrix, to be used in encryption script:
-#transprob_matrix_ = read.table("matrix.txt", header=TRUE)
-#transprob_matrix_ = data.matrix(transprob_matrix)
-
+# Write the character probabilites to a .txt file:
 write.table(char_prob,
             file=sprintf("char_prob-%s-.txt", 
                          gsub(".txt", "", filename)),
             col.names=FALSE)
-
-# Read out character probabilities, to be used in encryption script:
-#char_prob_ = read.table(sprintf("char_prob-%s-.txt", 
-#                                gsub(".txt", "", filename)))
-#char_prob = data.matrix(char_prob)
 
 
 setEPS()
@@ -138,7 +128,7 @@ levelplot(t(apply(transprob_matrix, 2, rev)),
           xlab='Probability of Second Letter', 
           ylab='Condition on First Letter')
 
-# Create .eps figure of char probabilities:
+# Create .eps figure of character probabilities:
 postscript(sprintf("char_prob-%s-.eps", gsub(".txt", "", filename)))
 
 barplot(char_prob, las=2,

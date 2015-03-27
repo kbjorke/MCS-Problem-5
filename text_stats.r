@@ -7,6 +7,8 @@ filename = args[1]
 # Read the text file of reference textr:
 reference_text_original = readLines(filename)
 
+### Make includable function of given section, for use in both programs ###
+
 # Combine into one continous vector:
 reference_text = paste(reference_text_original, collapse=" ")
 
@@ -50,6 +52,7 @@ reference_text = strsplit(reference_text, '')[[1]]
 # Create an list of the character pluss emtpty space:
 character_list = c(' ', toupper(letters))
 
+#########
 
 # Create an empty transition probability matrix for the character list:
 transprob_matrix = matrix(0, nrow=length(character_list),
@@ -104,6 +107,10 @@ for( char in character_list )
 # Normalize character probabilities:
 char_prob = char_prob/num_char
 
+transprob_matrix = read.table(transprob_matrix, header=TRUE)
+transprob_matrix = data.matrix(transprob_matrix)
+
+print(transprob_matrix)
 
 # Write the content of the transition matrix to a .txt file:
 write.table(transprob_matrix, 

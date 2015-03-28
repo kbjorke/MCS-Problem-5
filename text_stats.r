@@ -107,10 +107,6 @@ for( char in character_list )
 # Normalize character probabilities:
 char_prob = char_prob/num_char
 
-transprob_matrix = read.table(transprob_matrix, header=TRUE)
-transprob_matrix = data.matrix(transprob_matrix)
-
-print(transprob_matrix)
 
 # Write the content of the transition matrix to a .txt file:
 write.table(transprob_matrix, 
@@ -132,8 +128,8 @@ library(lattice)
 levelplot(t(apply(transprob_matrix, 2, rev)), 
           col.regions = gray(1-0:255/255),
           main=sprintf('Transition probablity matrix for "%s"', filename),
-          xlab='Probability of Second Letter', 
-          ylab='Condition on First Letter')
+          xlab='Probability of Second Character', 
+          ylab='Condition on First Character')
 
 # Create .eps figure of character probabilities:
 postscript(sprintf("char_prob-%s-.eps", gsub(".txt", "", filename)))

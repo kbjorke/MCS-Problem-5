@@ -9,16 +9,16 @@ code_format = function(text)
     # Format the text so that only characters expected in code are present:
 
     # Combine into one continous vector:
-    text = paste(text, collapse=" ")
+    formated_text = paste(text, collapse=" ")
 
     # Change all lower case characters to upper case characters: 
-    text = toupper(text)
+    formated_text = toupper(formated_text)
 
     # Replace all punctuation characters with white space:
-    text = gsub("[[:punct:]]", " ", text)
+    formated_text = gsub("[[:punct:]]", " ", formated_text)
 
     # Remove all digits:
-    text = gsub("[[:digit:]]", "", text)
+    formated_text = gsub("[[:digit:]]", "", formated_text)
 
     # Create list of special characters and A-Z replacements:
     special_characters = list('Š'='S', 'š'='s', 'Ž'='Z', 'ž'='z', 'À'='A', 
@@ -36,16 +36,16 @@ code_format = function(text)
                               'û'='u', 'ý'='y', 'ý'='y', 'þ'='b', 'ÿ'='y')
 
     # Repleace special characters with A-Z/a-z characters:
-    text = chartr(paste(names(special_characters), collapse=''),
+    formated_text = chartr(paste(names(special_characters), collapse=''),
                             paste(special_characters, collapse=''),
-                            text)
+                            formated_text)
 
     # Remove all unnecessary white spaces:
-    text = gsub("[[:space:]]+", " ", text)
+    formated_text = gsub("[[:space:]]+", " ", formated_text)
 
     # Split the list into an array of the characters:
     # (Makes the loop faster, because not using substr() function)
-    text = strsplit(text, '')[[1]]
+    formated_text = strsplit(formated_text, '')[[1]]
 
-    return(list(text, character_list))
+    return(list(formated_text, character_list))
 }

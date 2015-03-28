@@ -5,6 +5,7 @@ source("code_format.r")
 args = commandArgs(trailingOnly = TRUE)
 
 filename = args[1]
+#filename = "test_pg2600.txt"
 
 # Read the text file of reference textr:
 reference_text_original = readLines(filename)

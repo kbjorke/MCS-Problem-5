@@ -1,5 +1,7 @@
 # By: Kristian Bjoerke
 
+source("code_format.r")
+
 args = commandArgs(trailingOnly = TRUE)
 
 filename = args[1]
@@ -7,52 +9,11 @@ filename = args[1]
 # Read the text file of reference textr:
 reference_text_original = readLines(filename)
 
-### Make includable function of given section, for use in both programs ###
+output = code_format(reference_text_original)
 
-# Combine into one continous vector:
-reference_text = paste(reference_text_original, collapse=" ")
+reference_text = output[[1]]
+character_list = output[[2]]
 
-# Change all lower case characters to upper case characters: 
-reference_text = toupper(reference_text)
-
-# Replace all punctuation characters with white space:
-reference_text = gsub("[[:punct:]]", " ", reference_text)
-
-# Remove all digits:
-reference_text = gsub("[[:digit:]]", "", reference_text)
-
-# Create list of special characters and A-Z replacements:
-special_characters = list('Š'='S', 'š'='s', 'Ž'='Z', 'ž'='z', 'À'='A', 
-                          'Á'='A', 'Â'='A', 'Ã'='A', 'Ä'='A', 'Å'='A', 
-                          'Æ'='A', 'Ç'='C', 'È'='E', 'É'='E', 'Ê'='E', 
-                          'Ë'='E', 'Ì'='I', 'Í'='I', 'Î'='I', 'Ï'='I', 
-                          'Ñ'='N', 'Ò'='O', 'Ó'='O', 'Ô'='O', 'Õ'='O', 
-                          'Ö'='O', 'Ø'='O', 'Ù'='U', 'Ú'='U', 'Û'='U', 
-                          'Ü'='U', 'Ý'='Y', 'Þ'='B', 'ß'='Ss', 'à'='a', 
-                          'á'='a', 'â'='a', 'ã'='a', 'ä'='a', 'å'='a', 
-                          'æ'='a', 'ç'='c', 'è'='e', 'é'='e', 'ê'='e', 
-                          'ë'='e', 'ì'='i', 'í'='i', 'î'='i', 'ï'='i', 
-                          'ð'='o', 'ñ'='n', 'ò'='o', 'ó'='o', 'ô'='o', 
-                          'õ'='o', 'ö'='o', 'ø'='o', 'ù'='u', 'ú'='u', 
-                          'û'='u', 'ý'='y', 'ý'='y', 'þ'='b', 'ÿ'='y')
-
-# Repleace special characters with A-Z/a-z characters:
-reference_text = chartr(paste(names(special_characters), collapse=''),
-                        paste(special_characters, collapse=''),
-                        reference_text)
-
-# Remove all unnecessary white spaces:
-reference_text = gsub("[[:space:]]+", " ", reference_text)
-
-# Split the list into an array of the characters:
-# (Makes the loop faster, because not using substr() function)
-reference_text = strsplit(reference_text, '')[[1]]
-
-
-# Create an list of the character pluss emtpty space:
-character_list = c(' ', toupper(letters))
-
-#########
 
 # Create an empty transition probability matrix for the character list:
 transprob_matrix = matrix(0, nrow=length(character_list),
@@ -137,3 +98,5 @@ postscript(sprintf("char_prob-%s-.eps", gsub(".txt", "", filename)))
 barplot(char_prob, las=2,
         xlab="Characters", ylab="Probability (relative frequency)",
         main=sprintf('Character probabilities for "%s"', filename))
+
+

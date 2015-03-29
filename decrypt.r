@@ -8,7 +8,8 @@ source("code_format.r")
 filename = "example_encrypted_text.txt"
 
 # Number of Monte Carlo samples:
-N = 10000
+N = 10
+p = 1
 
 text_stats_source = "pg2600.txt"
 
@@ -83,6 +84,8 @@ code_key = initial_key
 
 score_function = function(formated_text, key, transprob_mat)
 {
+    num_char =  length(formated_text)
+
     score_func = 0
     for( i in 1:(num_char-1) )
     {
@@ -95,13 +98,44 @@ score_function = function(formated_text, key, transprob_mat)
 
     return(score_func)
 }
+    
+char_swap1 = c("S", "N")
+char_swap2 = c("S", "R")
+char_swap3 = c("L", "W")
+
+print(code_key)
+
+code_key = chartr(paste(char_swap1, collapse=''), 
+                  paste(rev(char_swap1), collapse=''), 
+                  code_key)
+code_key = chartr(paste(char_swap2, collapse=''), 
+                  paste(rev(char_swap2), collapse=''), 
+                  code_key)
+code_key = chartr(paste(char_swap3, collapse=''), 
+                  paste(rev(char_swap3), collapse=''), 
+                  code_key)
+
+#print(code_key)
 
 
 score_func = score_function(formated_encrypted_text, code_key, transprob_matrix)
 
 
+
 for( i in 1:N )
 {
+    # Counter:
+    if( i %% floor(N/10) == 0 )
+    {
+        print(sprintf("%d %s", ceiling(100*(i/N)), "%"))
+        print(score_func)
+        
+        print(chartr(paste(names(code_key), collapse=''),
+                        paste(code_key, collapse=''),
+                        encrypted_text[1]))
+    }
+
+
     char_swap = sample(character_list,2)
 
     new_code_key = chartr(paste(char_swap, collapse=''), 
@@ -122,7 +156,7 @@ for( i in 1:N )
 
         r = runif(1)
 
-        if( alpha >= r )
+        if( alpha^p >= r )
         {
             code_key = new_code_key
             score_func = new_score_func
@@ -135,16 +169,15 @@ for( i in 1:N )
 decrypted_text = array(data=NA, dim=length(encrypted_text))
 
 #print(encrypted_text)
-for( i in 1:length(encrypted_text) )
-{
-    # Alternative way of solving, may be slower/faster
-#    decrypted_text[i] = gsub(sorted_char_freq_enctext[[1]],
-#                          sorted_char_freq_source[[1]], encrypted_text[i])
-    decrypted_text[i] = chartr(paste(names(code_key), collapse=''),
-                        paste(code_key, collapse=''),
-                        encrypted_text[i])
-}
-print("")
-print(decrypted_text)
+#for( i in 1:length(encrypted_text) )
+#{
+#    # Alternative way of solving, may be slower/faster
+##    decrypted_text[i] = gsub(sorted_char_freq_enctext[[1]],
+##                          sorted_char_freq_source[[1]], encrypted_text[i])
+#    decrypted_text[i] = chartr(paste(names(code_key), collapse=''),
+#                        paste(code_key, collapse=''),
+#                        encrypted_text[i])
+#}
+#print(decrypted_text)
 
 

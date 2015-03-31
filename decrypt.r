@@ -2,22 +2,34 @@
 
 source("code_format.r")
 
+time = as.POSIXlt(Sys.time(), "GMT")
+
 #args = commandArgs(trailingOnly = TRUE)
 
 #filename = args[1]
 filename = "example_encrypted_text.txt"
 
-# Number of Monte Carlo samples:
-N = 10
-p = 1
+# Number of Trial:
+trials = 2
 
+# Number of Monte Carlo samples:
+N = 100
+
+# Scaling paramter:
+p = 3000
+
+# Score function paramters:
+lambda1 = 1
+lambda2 = 0
+
+# Source text for transition and character probabilities:
 text_stats_source = "pg2600.txt"
 
-encrypted_text = readLines(filename)
+ciphertext = readLines(filename)
 
-output = code_format(encrypted_text)
+output = code_format(ciphertext)
 
-formated_encrypted_text = output[[1]]
+formated_ciphertext = output[[1]]
 character_list = output[[2]]
 
 # Read out transition matrix, to be used in encryption script:
@@ -39,21 +51,20 @@ char_prob = array(data=char_prob[[2]], dimnames=list(char_prob[[1]]))
 
 
 
-
 # Create an empty vector to be used for character probabilities:
 initial_rel_char_freq = array(data=0, dim=length(character_list),
                               dimnames=list(character_list))
 
 
 
-num_char = length(formated_encrypted_text)
+num_char = length(formated_ciphertext)
 
 # Initialization of loop:
 
-# Loop over characters in reference text:
+# Loop over characters in ciphertext:
 for( i in 1:num_char )
 {
-    current_char = formated_encrypted_text[i]
+    current_char = formated_ciphertext[i]
     
     # Contribution to characeter probabilities:
     initial_rel_char_freq[current_char] = 
@@ -92,92 +103,119 @@ score_function = function(formated_text, key, transprob_mat)
         first_character = key[formated_text[i]]
         second_character = key[formated_text[i+1]] 
 
-        score_func = score_func + transprob_mat[first_character,
-                                                second_character]
+        score_func = score_func + 
+                     lambda1*transprob_mat[first_character,second_character] + 
+                     lambda2*char_prob[[second_character]]
     }
 
     return(score_func)
 }
     
-char_swap1 = c("S", "N")
-char_swap2 = c("S", "R")
-char_swap3 = c("L", "W")
 
-print(code_key)
+score_func = score_function(formated_ciphertext, code_key, transprob_matrix)
 
-code_key = chartr(paste(char_swap1, collapse=''), 
-                  paste(rev(char_swap1), collapse=''), 
-                  code_key)
-code_key = chartr(paste(char_swap2, collapse=''), 
-                  paste(rev(char_swap2), collapse=''), 
-                  code_key)
-code_key = chartr(paste(char_swap3, collapse=''), 
-                  paste(rev(char_swap3), collapse=''), 
-                  code_key)
+acceptance = 0
 
-#print(code_key)
-
-
-score_func = score_function(formated_encrypted_text, code_key, transprob_matrix)
+best_score_func = 0
 
 
 
-for( i in 1:N )
+folder_name = sprintf("output-%s/", gsub(".txt", "", filename))
+
+dir.create(file.path(folder_name), showWarning=FALSE)
+
+output_file = file(sprintf("%soutput_%02d-%02d_%02d-%02d.txt", folder_name,
+                                   (time$mon+1), time$mday,
+                                   time$hour, time$min), "w")
+
+write(ciphertext, file=output_file, append=TRUE)
+
+write("", file=output_file, append=TRUE)
+
+
+
+for( t in 1:trials )
 {
-    # Counter:
-    if( i %% floor(N/10) == 0 )
+
+    for( i in 1:N )
     {
-        print(sprintf("%d %s", ceiling(100*(i/N)), "%"))
-        print(score_func)
-        
-        print(chartr(paste(names(code_key), collapse=''),
-                        paste(code_key, collapse=''),
-                        encrypted_text[1]))
-    }
+        # Counter:
+        if( i %% floor(N/10) == 0 )
+        {
+            print(sprintf("%d %s", ceiling(100*(i/N)), "%"))
+            print(score_func)
+            
+            print(chartr(paste(names(code_key), collapse=''),
+                            paste(code_key, collapse=''),
+                            ciphertext[1]))
+        }
 
 
-    char_swap = sample(character_list,2)
+        # Swap two non-" " characters:
+        char_swap = sample(character_list[2:length(character_list)],2)
+        #char_swap = sample(character_list,2)
 
-    new_code_key = chartr(paste(char_swap, collapse=''), 
-                          paste(rev(char_swap), collapse=''), 
-                          initial_key)
+        new_code_key = chartr(paste(char_swap, collapse=''), 
+                              paste(rev(char_swap), collapse=''), 
+                              code_key)
 
-    new_score_func = score_function(formated_encrypted_text, new_code_key,
-                                    transprob_matrix)
 
-    if( new_score_func >= score_func )
-    {
-        code_key = new_code_key
-        score_func = new_score_func
-    }
-    else
-    {
-        alpha = new_score_func/score_func
+        new_score_func = score_function(formated_ciphertext, new_code_key,
+                                        transprob_matrix)
 
-        r = runif(1)
-
-        if( alpha^p >= r )
+        if( new_score_func >= score_func )
         {
             code_key = new_code_key
             score_func = new_score_func
+            
+            acceptance = acceptance + 1
+        }
+        else
+        {
+            alpha = new_score_func/score_func
+
+            r = runif(1)
+
+            if( alpha^p >= r )
+            {
+                code_key = new_code_key
+                score_func = new_score_func
+
+                acceptance = acceptance + 1
+            }
+        }
+        #print(score_func)
+
+        if( score_func > best_score_func )
+        {
+            best_score_func = score_func
+            best_code_key = code_key
         }
     }
-    #print(score_func)
+
+print(acceptance/N)
+
+
+plaintext = array(data=NA, dim=length(ciphertext))
+
+#print(ciphertext)
+print(best_score_func)
+print(best_code_key)
+for( i in 1:length(ciphertext) )
+{
+    # Alternative way of solving, may be slower/faster
+#    plaintext[i] = gsub(sorted_char_freq_enctext[[1]],
+#                          sorted_char_freq_source[[1]], ciphertext[i])
+    plaintext[i] = chartr(paste(names(best_code_key), collapse=''),
+                        paste(best_code_key, collapse=''),
+                        ciphertext[i])
+}
+print("")
+print(plaintext)
+write(plaintext, file=output_file, append=TRUE)
+write("", file=output_file, append=TRUE)
 }
 
-
-decrypted_text = array(data=NA, dim=length(encrypted_text))
-
-#print(encrypted_text)
-#for( i in 1:length(encrypted_text) )
-#{
-#    # Alternative way of solving, may be slower/faster
-##    decrypted_text[i] = gsub(sorted_char_freq_enctext[[1]],
-##                          sorted_char_freq_source[[1]], encrypted_text[i])
-#    decrypted_text[i] = chartr(paste(names(code_key), collapse=''),
-#                        paste(code_key, collapse=''),
-#                        encrypted_text[i])
-#}
-#print(decrypted_text)
+close(output_file)
 
 

@@ -1,0 +1,43 @@
+Time: 2015-04-01 14:01:59
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 5000 
+Scaling parameter = 4000
+lambda_1 = 0.50 
+lambda_2 = 0.50
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0316
+Score function: 31.260
+
+Plaintext (best guess):
+
+AY NATURAV YEVECTION ACTY YOVEVG LG THE PREYERMATION OF
+PROFITALVE SODIFICATIONY, EACH NEW FORS WIVV TEND IN A FUVVG-
+YTOCBED COUNTRG TO TABE THE PVACE OF, AND FINAVVG TO EXTERSINATE, ITY
+OWN VEYY ISPROMED PARENT-FORS AND OTHER VEYY-FAMOURED FORSY WITH
+WHICH IT COSEY INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = Z
+{F} = W    {O} = V    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = P    {Q} = G    {Z} = S

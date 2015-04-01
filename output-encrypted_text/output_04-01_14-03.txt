@@ -1,0 +1,43 @@
+Time: 2015-04-01 14:03:53
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 5000 
+Scaling parameter = 2000
+lambda_1 = 0.10 
+lambda_2 = 0.90
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0516
+Score function: 22.907
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY BY THE PREDERMATION OF
+PROFITABSE LOGIFICATIOND, EACH NEW FORL WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EXTERLINATE, ITD
+OWN SEDD ILPROMEG PARENT-FORL ANG OTHER SEDD-FAMOUREG FORLD WITH
+WHICH IT COLED INTO COLPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = S    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = L

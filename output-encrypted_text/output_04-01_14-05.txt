@@ -1,0 +1,43 @@
+Time: 2015-04-01 14:05:40
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 10000 
+Scaling parameter = 1000
+lambda_1 = 0.10 
+lambda_2 = 0.90
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0897
+Score function: 22.822
+
+Plaintext (best guess):
+
+AD NATURAH DEHESTION ASTD DOHEHY CY TME PREDERBATION OF
+PROFITACHE LOGIFISATIOND, EASM NEW FORL WIHH TENG IN A FUHHY-
+DTOSVEG SOUNTRY TO TAVE TME PHASE OF, ANG FINAHHY TO EKTERLINATE, ITD
+OWN HEDD ILPROBEG PARENT-FORL ANG OTMER HEDD-FABOUREG FORLD WITM
+WMISM IT SOLED INTO SOLPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = C    {K} = D    {T} = V
+{C} = B    {L} = Q    {U} = T
+{D} = A    {M} = M    {V} = R
+{E} = K    {N} = G    {W} = Z
+{F} = W    {O} = H    {X} = I
+{G} = J    {P} = N    {Y} = X
+{H} = P    {Q} = Y    {Z} = L

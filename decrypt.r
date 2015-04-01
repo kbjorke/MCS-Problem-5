@@ -4,33 +4,50 @@ source("code_format.r")
 
 time = as.POSIXlt(Sys.time(), "GMT")
 
-#args = commandArgs(trailingOnly = TRUE)
-
-#filename = args[1]
-filename = "example_encrypted_text.txt"
-
-# Number of Trial:
-trials = 2
-
-# Number of Monte Carlo samples:
-N = 100
-
-# Scaling paramter:
-p = 3000
-
-# Score function paramters:
-lambda1 = 1
-lambda2 = 0
+filename = "encrypted_text.txt"
 
 # Source text for transition and character probabilities:
 text_stats_source = "pg2600.txt"
 
+# Number of Trial:
+trials = 6
+
+# Number of Monte Carlo samples:
+N = 20000
+
+# Scaling paramter:
+p = 2000
+
+# Score function paramters:
+lambda1 = 0.20
+lambda2 = 0.80
+
+# Score funcrtion:
+score_function = function(formated_text, key, transprob_mat)
+{
+    num_char =  length(formated_text)
+
+    score_func = 0
+    for( i in 1:(num_char-1) )
+    {
+        first_character = key[formated_text[i]]
+        second_character = key[formated_text[i+1]] 
+
+        score_func = score_func + 
+                     lambda1*transprob_mat[first_character,second_character] + 
+                     lambda2*char_prob[[second_character]]
+    }
+
+    return(score_func)
+}
+
+
 ciphertext = readLines(filename)
 
-output = code_format(ciphertext)
+input = code_format(ciphertext)
 
-formated_ciphertext = output[[1]]
-character_list = output[[2]]
+formated_ciphertext = input[[1]]
+character_list = input[[2]]
 
 # Read out transition matrix, to be used in encryption script:
 transprob_matrix = read.table(sprintf("transprob_matrix-%s-.txt", 
@@ -93,30 +110,10 @@ for( i in 1:length(character_list) )
 
 code_key = initial_key
 
-score_function = function(formated_text, key, transprob_mat)
-{
-    num_char =  length(formated_text)
-
-    score_func = 0
-    for( i in 1:(num_char-1) )
-    {
-        first_character = key[formated_text[i]]
-        second_character = key[formated_text[i+1]] 
-
-        score_func = score_func + 
-                     lambda1*transprob_mat[first_character,second_character] + 
-                     lambda2*char_prob[[second_character]]
-    }
-
-    return(score_func)
-}
     
 
 score_func = score_function(formated_ciphertext, code_key, transprob_matrix)
 
-acceptance = 0
-
-best_score_func = 0
 
 
 
@@ -128,15 +125,28 @@ output_file = file(sprintf("%soutput_%02d-%02d_%02d-%02d.txt", folder_name,
                                    (time$mon+1), time$mday,
                                    time$hour, time$min), "w")
 
+# Write file header:
+write(sprintf("Time: %s", time), file=output_file, append=TRUE)
+write(sprintf("File of encrypted text: %s", filename), 
+      file=output_file, append=TRUE)
+write("\nDecryption parameters:", file=output_file, append=TRUE)
+write(sprintf("N = %d \nScaling parameter = %d", N, p), 
+      file=output_file, append=TRUE)
+write(sprintf("lambda_1 = %.2f \nlambda_2 = %.2f", lambda1, lambda2), 
+      file=output_file, append=TRUE)
+write("\nCiphertext:\n", file=output_file, append=TRUE)
 write(ciphertext, file=output_file, append=TRUE)
-
-write("", file=output_file, append=TRUE)
-
+write(sprintf("\nNumber of trials: %d", trials), 
+      file=output_file, append=TRUE)
 
 
 for( t in 1:trials )
 {
+    acceptance = 0
 
+    best_score_func = 0
+
+    print("")
     for( i in 1:N )
     {
         # Counter:
@@ -193,27 +203,45 @@ for( t in 1:trials )
         }
     }
 
-print(acceptance/N)
+    print(acceptance/N)
 
 
-plaintext = array(data=NA, dim=length(ciphertext))
+    plaintext = array(data=NA, dim=length(ciphertext))
 
-#print(ciphertext)
-print(best_score_func)
-print(best_code_key)
-for( i in 1:length(ciphertext) )
-{
-    # Alternative way of solving, may be slower/faster
-#    plaintext[i] = gsub(sorted_char_freq_enctext[[1]],
-#                          sorted_char_freq_source[[1]], ciphertext[i])
-    plaintext[i] = chartr(paste(names(best_code_key), collapse=''),
-                        paste(best_code_key, collapse=''),
-                        ciphertext[i])
-}
-print("")
-print(plaintext)
-write(plaintext, file=output_file, append=TRUE)
-write("", file=output_file, append=TRUE)
+    #print(ciphertext)
+    print(best_score_func)
+    for( i in 1:length(ciphertext) )
+    {
+        plaintext[i] = chartr(paste(names(best_code_key), collapse=''),
+                            paste(best_code_key, collapse=''),
+                            ciphertext[i])
+    }
+    print("")
+    print(plaintext)
+
+    len = length(best_code_key)
+
+    best_code_key_output = sprintf("{%s} = %s", names(best_code_key),
+                                         best_code_key)
+    best_code_key_output = sprintf("%s    %s    %s",
+                                   best_code_key_output[
+                                        seq(1,floor(len/3))],
+                                   best_code_key_output[
+                                        seq(1+floor(len/3),2*floor(len/3))],
+                                   best_code_key_output[
+                                        seq(1+2*floor(len/3),3*floor(len/3))])
+
+
+    
+    write(sprintf("\n\nTrial number: %d", t), file=output_file, append=TRUE)
+    write(sprintf("Acceptance rate: %.4f", acceptance/N), 
+          file=output_file, append=TRUE)
+    write(sprintf("Score function: %.3f", best_score_func), 
+          file=output_file, append=TRUE)
+    write("\nPlaintext (best guess):\n", file=output_file, append=TRUE)
+    write(plaintext, file=output_file, append=TRUE)
+    write("\nDecryption key:\n", file=output_file, append=TRUE)
+    write(best_code_key_output, file=output_file, append=TRUE)
 }
 
 close(output_file)

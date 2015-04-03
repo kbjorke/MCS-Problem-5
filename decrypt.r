@@ -10,17 +10,17 @@ filename = "encrypted_text.txt"
 text_stats_source = "pg2600.txt"
 
 # Number of Trial:
-trials = 6
+trials = 1
 
 # Number of Monte Carlo samples:
-N = 20000
+N = 10000
 
 # Scaling paramter:
-p = 2000
+p = 1500
 
 # Score function paramters:
-lambda1 = 0.20
-lambda2 = 0.80
+lambda1 = 0.15
+lambda2 = 0.85
 
 # Score funcrtion:
 score_function = function(formated_text, key, transprob_mat)
@@ -35,8 +35,9 @@ score_function = function(formated_text, key, transprob_mat)
 
         score_func = score_func + 
                      lambda1*transprob_mat[first_character,second_character] + 
-                     lambda2*char_prob[[second_character]]
+                     lambda2*char_prob[[first_character]]
     }
+    score_func = score_func + lambda2*char_prob[[key[formated_text[num_char]]]]
 
     return(score_func)
 }

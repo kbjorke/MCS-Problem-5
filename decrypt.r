@@ -13,7 +13,7 @@ text_stats_source = "pg2600.txt"
 trials = 1
 
 # Number of Monte Carlo samples:
-N = 10000
+N = 1000
 
 # Scaling paramter:
 p = 1500
@@ -118,7 +118,8 @@ score_func = score_function(formated_ciphertext, code_key, transprob_matrix)
 
 
 
-folder_name = sprintf("output-%s/", gsub(".txt", "", filename))
+folder_name = sprintf("output-%s/%d-%02d-%02d/", gsub(".txt", "", filename),
+                      (time$year+1900),(time$mon+1), time$mday)
 
 dir.create(file.path(folder_name), showWarning=FALSE)
 

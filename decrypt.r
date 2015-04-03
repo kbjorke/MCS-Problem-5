@@ -2,7 +2,6 @@
 
 source("code_format.r")
 
-time = as.POSIXlt(Sys.time(), "GMT")
 
 filename = "encrypted_text.txt"
 
@@ -13,14 +12,24 @@ text_stats_source = "pg2600.txt"
 trials = 1
 
 # Number of Monte Carlo samples:
-N = 1000
+N = 10000
 
 # Scaling paramter:
-p = 1500
+#p = 1500
+p_list = c(500,1000)
 
 # Score function paramters:
-lambda1 = 0.15
-lambda2 = 0.85
+#lambda1 = 0.15
+#lambda2 = 0.85
+lambda1_list = c(0.10, 0.20)
+
+for( p in p_list )
+{
+for( lambda1 in lambda1_list )
+{
+lambda2 = 1-lambda1
+
+time = as.POSIXlt(Sys.time(), "GMT")
 
 # Score funcrtion:
 score_function = function(formated_text, key, transprob_mat)
@@ -248,4 +257,5 @@ for( t in 1:trials )
 
 close(output_file)
 
-
+}
+}

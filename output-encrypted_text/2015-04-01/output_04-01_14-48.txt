@@ -1,0 +1,43 @@
+Time: 2015-04-01 14:48:47
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 10000 
+Scaling parameter = 2000
+lambda_1 = 0.30 
+lambda_2 = 0.70
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0345
+Score function: 26.321
+
+Plaintext (best guess):
+
+AD SANURAH DEHECNIOS ACND DOHEHG WG NKE PREDERBANIOS OT
+PROTINAWHE MOYITICANIOSD, EACK SEF TORM FIHH NESY IS A TUHHG-
+DNOCVEY COUSNRG NO NAVE NKE PHACE OT, ASY TISAHHG NO ELNERMISANE, IND
+OFS HEDD IMPROBEY PARESN-TORM ASY ONKER HEDD-TABOUREY TORMD FINK
+FKICK IN COMED ISNO COMPENINIOS.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = T
+{A} = O    {J} = U    {S} = E
+{B} = W    {K} = D    {T} = V
+{C} = B    {L} = J    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = L    {N} = Y    {W} = X
+{F} = F    {O} = H    {X} = I
+{G} = Q    {P} = S    {Y} = Z
+{H} = P    {Q} = G    {Z} = M

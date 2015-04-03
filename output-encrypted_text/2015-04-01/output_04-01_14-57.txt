@@ -1,0 +1,43 @@
+Time: 2015-04-01 14:57:31
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 10000 
+Scaling parameter = 1500
+lambda_1 = 0.15 
+lambda_2 = 0.85
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0507
+Score function: 23.938
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = F

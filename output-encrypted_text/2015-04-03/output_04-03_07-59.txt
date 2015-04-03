@@ -1,0 +1,43 @@
+Time: 2015-04-03 07:59:44
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 1000 
+Scaling parameter = 1500
+lambda_1 = 0.15 
+lambda_2 = 0.85
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0630
+Score function: 23.724
+
+Plaintext (best guess):
+
+ID NITURIL DELEWTOAN IWTD DALELY BY THE PREDERZITOAN AS
+PRASOTIBLE MAGOSOWITOAND, EIWH NEC SARM COLL TENG ON I SULLY-
+DTAWVEG WAUNTRY TA TIVE THE PLIWE AS, ING SONILLY TA EXTERMONITE, OTD
+ACN LEDD OMPRAZEG PIRENT-SARM ING ATHER LEDD-SIZAUREG SARMD COTH
+CHOWH OT WAMED ONTA WAMPETOTOAN.
+
+Decryption key:
+
+{ } =      {I} = W    {R} = S
+{A} = A    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = Z    {L} = Q    {U} = T
+{D} = I    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = C    {O} = L    {X} = O
+{G} = F    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = M

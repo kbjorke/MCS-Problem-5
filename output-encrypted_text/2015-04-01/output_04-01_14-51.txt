@@ -1,0 +1,43 @@
+Time: 2015-04-01 14:51:36
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 10000 
+Scaling parameter = 1500
+lambda_1 = 0.05 
+lambda_2 = 0.95
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0861
+Score function: 21.924
+
+Plaintext (best guess):
+
+AD NATUHAR DERELTION ALTD DORERY PY TME CHEDEHBATION OS
+CHOSITAPRE FOGISILATIOND, EALM NEW SOHF WIRR TENG IN A SURRY-
+DTOLVEG LOUNTHY TO TAVE TME CRALE OS, ANG SINARRY TO EXTEHFINATE, ITD
+OWN REDD IFCHOBEG CAHENT-SOHF ANG OTMEH REDD-SABOUHEG SOHFD WITM
+WMILM IT LOFED INTO LOFCETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = B    {L} = Q    {U} = T
+{D} = A    {M} = M    {V} = H
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = C    {Q} = Y    {Z} = F

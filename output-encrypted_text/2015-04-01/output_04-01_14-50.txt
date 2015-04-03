@@ -1,0 +1,43 @@
+Time: 2015-04-01 14:50:50
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 10000 
+Scaling parameter = 1500
+lambda_1 = 0.10 
+lambda_2 = 0.90
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 1
+
+
+Trial number: 1
+Acceptance rate: 0.0514
+Score function: 22.877
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY GY THE PRESERBATION OF
+PROFITAGLE MODIFICATIONS, EACH NEW FORM WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERMINATE, ITS
+OWN LESS IMPROBED PARENT-FORM AND OTHER LESS-FABOURED FORMS WITH
+WHICH IT COMES INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = G    {K} = S    {T} = V
+{C} = B    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = M

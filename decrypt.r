@@ -9,19 +9,19 @@ filename = "encrypted_text.txt"
 text_stats_source = "pg2600.txt"
 
 # Number of Trial:
-trials = 1
+trials = 10
 
 # Number of Monte Carlo samples:
-N = 10000
+N = 20000
 
 # Scaling paramter:
 #p = 1500
-p_list = c(500,1000)
+p_list = c(500,1000,1500,2000,2500,3000,4000)
 
 # Score function paramters:
 #lambda1 = 0.15
 #lambda2 = 0.85
-lambda1_list = c(0.10, 0.20)
+lambda1_list = c(0.05,0.10,0.15,0.20,0.25,0.30,0.50,0.8)
 
 for( p in p_list )
 {

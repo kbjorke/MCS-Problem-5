@@ -1,0 +1,268 @@
+Time: 2015-04-03 09:03:49
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 500
+lambda_1 = 0.25 
+lambda_2 = 0.75
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0833
+Score function: 26.105
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 2
+Acceptance rate: 0.0896
+Score function: 26.105
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 3
+Acceptance rate: 0.0989
+Score function: 25.932
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EZTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = Z    {N} = G    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = B
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 4
+Acceptance rate: 0.1001
+Score function: 26.075
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EZTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = Z    {N} = G    {W} = X
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 5
+Acceptance rate: 0.0954
+Score function: 25.931
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY XY THE PREDERBATION OS
+PROSITAXLE MOGISICATIOND, EACH NEW SORM WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EZTERMINATE, ITD
+OWN LEDD IMPROBEG PARENT-SORM ANG OTHER LEDD-SABOUREG SORMD WITH
+WHICH IT COMED INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = X    {K} = D    {T} = V
+{C} = B    {L} = F    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = Z    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 6
+Acceptance rate: 0.0941
+Score function: 26.043
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERZATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EKTERSINATE, ITD
+OWN LEDD ISPROZEG PARENT-FORS ANG OTHER LEDD-FAZOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = Z    {L} = M    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = K    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = X    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 7
+Acceptance rate: 0.0974
+Score function: 25.911
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE BQEDEQMATION OS
+BQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE BRACE OS, ANG SINARRY TO ELTEQUINATE, ITD
+OWN REDD IUBQOMEG BAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COUBETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = L    {N} = G    {W} = X
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = B    {Q} = Y    {Z} = U
+
+
+Trial number: 8
+Acceptance rate: 0.0985
+Score function: 25.899
+
+Plaintext (best guess):
+
+AS NATLQAR SERECTION ACTS SORERY GY THE PQESEQMATION OF
+PQOFITAGRE UODIFICATIONS, EACH NEW FOQU WIRR TEND IN A FLRRY-
+STOCVED COLNTQY TO TAVE THE PRACE OF, AND FINARRY TO EXTEQUINATE, ITS
+OWN RESS IUPQOMED PAQENT-FOQU AND OTHEQ RESS-FAMOLQED FOQUS WITH
+WHICH IT COUES INTO COUPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = G    {K} = S    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = U
+
+
+Trial number: 9
+Acceptance rate: 0.1003
+Score function: 25.905
+
+Plaintext (best guess):
+
+AS NATKQAR SERECTION ACTS SORERY PY THE LQESEQMATION OF
+LQOFITAPRE UODIFICATIONS, EACH NEW FOQU WIRR TEND IN A FKRRY-
+STOCVED COKNTQY TO TAVE THE LRACE OF, AND FINARRY TO EXTEQUINATE, ITS
+OWN RESS IULQOMED LAQENT-FOQU AND OTHEQ RESS-FAMOKQED FOQUS WITH
+WHICH IT COUES INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = K    {S} = E
+{B} = P    {K} = S    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = G
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 10
+Acceptance rate: 0.0937
+Score function: 26.016
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY LY THE PREDERZATION OF
+PROFITALSE MOGIFICATIOND, EACH NEW FORM WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EXTERMINATE, ITD
+OWN SEDD IMPROZEG PARENT-FORM ANG OTHER SEDD-FAZOUREG FORMD WITH
+WHICH IT COMED INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = Z    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = S    {X} = I
+{G} = J    {P} = N    {Y} = B
+{H} = P    {Q} = Y    {Z} = M

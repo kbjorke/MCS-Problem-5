@@ -1,0 +1,268 @@
+Time: 2015-04-03 12:51:32
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 2000
+lambda_1 = 0.25 
+lambda_2 = 0.75
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0278
+Score function: 26.018
+
+Plaintext (best guess):
+
+AD NATURAL DELESTION ASTD DOLELY BY THE PREDERCATION OF
+PROFITABLE MOGIFISATIOND, EASH NEW FORM WILL TENG IN A FULLY-
+DTOSVEG SOUNTRY TO TAVE THE PLASE OF, ANG FINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROCEG PARENT-FORM ANG OTHER LEDD-FACOUREG FORMD WITH
+WHISH IT SOMED INTO SOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 2
+Acceptance rate: 0.0211
+Score function: 26.018
+
+Plaintext (best guess):
+
+AD NATURAL DELESTION ASTD DOLELY BY THE PREDERCATION OF
+PROFITABLE MOGIFISATIOND, EASH NEW FORM WILL TENG IN A FULLY-
+DTOSVEG SOUNTRY TO TAVE THE PLASE OF, ANG FINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROCEG PARENT-FORM ANG OTHER LEDD-FACOUREG FORMD WITH
+WHISH IT SOMED INTO SOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 3
+Acceptance rate: 0.0245
+Score function: 26.018
+
+Plaintext (best guess):
+
+AD NATURAL DELESTION ASTD DOLELY BY THE PREDERCATION OF
+PROFITABLE MOGIFISATIOND, EASH NEW FORM WILL TENG IN A FULLY-
+DTOSVEG SOUNTRY TO TAVE THE PLASE OF, ANG FINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROCEG PARENT-FORM ANG OTHER LEDD-FACOUREG FORMD WITH
+WHISH IT SOMED INTO SOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 4
+Acceptance rate: 0.0254
+Score function: 26.018
+
+Plaintext (best guess):
+
+AD NATURAL DELESTION ASTD DOLELY BY THE PREDERCATION OF
+PROFITABLE MOGIFISATIOND, EASH NEW FORM WILL TENG IN A FULLY-
+DTOSVEG SOUNTRY TO TAVE THE PLASE OF, ANG FINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROCEG PARENT-FORM ANG OTHER LEDD-FACOUREG FORMD WITH
+WHISH IT SOMED INTO SOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 5
+Acceptance rate: 0.0244
+Score function: 26.018
+
+Plaintext (best guess):
+
+AD NATURAL DELESTION ASTD DOLELY BY THE PREDERCATION OF
+PROFITABLE MOGIFISATIOND, EASH NEW FORM WILL TENG IN A FULLY-
+DTOSVEG SOUNTRY TO TAVE THE PLASE OF, ANG FINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROCEG PARENT-FORM ANG OTHER LEDD-FACOUREG FORMD WITH
+WHISH IT SOMED INTO SOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 6
+Acceptance rate: 0.0255
+Score function: 26.018
+
+Plaintext (best guess):
+
+AD NATURAL DELESTION ASTD DOLELY BY THE PREDERCATION OF
+PROFITABLE MOGIFISATIOND, EASH NEW FORM WILL TENG IN A FULLY-
+DTOSVEG SOUNTRY TO TAVE THE PLASE OF, ANG FINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROCEG PARENT-FORM ANG OTHER LEDD-FACOUREG FORMD WITH
+WHISH IT SOMED INTO SOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 7
+Acceptance rate: 0.0246
+Score function: 26.022
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY LY THE PREDERBATION OF
+PROFITALSE MOGIFICATIOND, EACH NEW FORM WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EXTERMINATE, ITD
+OWN SEDD IMPROBEG PARENT-FORM ANG OTHER SEDD-FABOUREG FORMD WITH
+WHICH IT COMED INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = B    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = S    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 8
+Acceptance rate: 0.0241
+Score function: 26.105
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 9
+Acceptance rate: 0.0239
+Score function: 26.105
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 10
+Acceptance rate: 0.0226
+Score function: 26.105
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S

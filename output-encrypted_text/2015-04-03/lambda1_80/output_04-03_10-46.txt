@@ -1,0 +1,268 @@
+Time: 2015-04-03 10:46:03
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1000
+lambda_1 = 0.80 
+lambda_2 = 0.20
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0289
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = Q    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = J
+{F} = A    {O} = V    {X} = I
+{G} = X    {P} = N    {Y} = M
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 2
+Acceptance rate: 0.0285
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = X
+{F} = A    {O} = V    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 3
+Acceptance rate: 0.0244
+Score function: 36.459
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE AREDERZTHION OF
+AROFIHTLVE MOGIFICTHIOND, ETCK NES FORM SIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE AVTCE OF, TNG FINTVVY HO EWHERMINTHE, IHD
+OSN VEDD IMAROZEG ATRENH-FORM TNG OHKER VEDD-FTZOUREG FORMD SIHK
+SKICK IH COMED INHO COMAEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = P    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = J
+{F} = S    {O} = V    {X} = I
+{G} = X    {P} = N    {Y} = Q
+{H} = A    {Q} = Y    {Z} = M
+
+
+Trial number: 4
+Acceptance rate: 0.0250
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = J
+{F} = A    {O} = V    {X} = I
+{G} = X    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 5
+Acceptance rate: 0.0269
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = J
+{F} = A    {O} = V    {X} = I
+{G} = X    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 6
+Acceptance rate: 0.0309
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = X    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = J
+{F} = A    {O} = V    {X} = I
+{G} = Q    {P} = N    {Y} = M
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 7
+Acceptance rate: 0.0258
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = Q    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = X
+{F} = A    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = M
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 8
+Acceptance rate: 0.0251
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = Q
+{F} = A    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = X
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 9
+Acceptance rate: 0.0252
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = Q
+{F} = A    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = X
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 10
+Acceptance rate: 0.0326
+Score function: 36.483
+
+Plaintext (best guess):
+
+TD NTHURTV DEVECHION TCHD DOVEVY LY HKE PREDERZTHION OF
+PROFIHTLVE SOGIFICTHIOND, ETCK NEA FORS AIVV HENG IN T FUVVY-
+DHOCBEG COUNHRY HO HTBE HKE PVTCE OF, TNG FINTVVY HO EWHERSINTHE, IHD
+OAN VEDD ISPROZEG PTRENH-FORS TNG OHKER VEDD-FTZOUREG FORSD AIHK
+AKICK IH COSED INHO COSPEHIHION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = H
+{D} = T    {M} = K    {V} = R
+{E} = W    {N} = G    {W} = Q
+{F} = A    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = X
+{H} = P    {Q} = Y    {Z} = S

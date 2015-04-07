@@ -1,0 +1,268 @@
+Time: 2015-04-03 09:40:56
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1000
+lambda_1 = 0.05 
+lambda_2 = 0.95
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.1250
+Score function: 21.928
+
+Plaintext (best guess):
+
+OD NOTPROH DEHELTIAN OLTD DAHEHY WY TGE CREDERBOTIAN AS
+CRASITOWHE MAFISILOTIAND, EOLG NEU SARM UIHH TENF IN O SPHHY-
+DTALVEF LAPNTRY TA TOVE TGE CHOLE AS, ONF SINOHHY TA EXTERMINOTE, ITD
+AUN HEDD IMCRABEF CORENT-SARM ONF ATGER HEDD-SOBAPREF SARMD UITG
+UGILG IT LAMED INTA LAMCETITIAN.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = A    {J} = P    {S} = E
+{B} = W    {K} = D    {T} = V
+{C} = B    {L} = K    {U} = T
+{D} = O    {M} = G    {V} = R
+{E} = X    {N} = F    {W} = Z
+{F} = U    {O} = H    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = C    {Q} = Y    {Z} = M
+
+
+Trial number: 2
+Acceptance rate: 0.1271
+Score function: 21.950
+
+Plaintext (best guess):
+
+AS NATURAH SEHELTION ALTS SOHEHY BY TGE FRESERCATION OW
+FROWITABHE MODIWILATIONS, EALG NEP WORM PIHH TEND IN A WUHHY-
+STOLVED LOUNTRY TO TAVE TGE FHALE OW, AND WINAHHY TO EKTERMINATE, ITS
+OPN HESS IMFROCED FARENT-WORM AND OTGER HESS-WACOURED WORMS PITG
+PGILG IT LOMES INTO LOMFETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = W
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = C    {L} = X    {U} = T
+{D} = A    {M} = G    {V} = R
+{E} = K    {N} = D    {W} = J
+{F} = P    {O} = H    {X} = I
+{G} = Q    {P} = N    {Y} = Z
+{H} = F    {Q} = Y    {Z} = M
+
+
+Trial number: 3
+Acceptance rate: 0.1263
+Score function: 21.968
+
+Plaintext (best guess):
+
+AS NATUHAR SERELTION ALTS SORERY PY TME CHESEHBATION OW
+CHOWITAPRE FODIWILATIONS, EALM NEG WOHF GIRR TEND IN A WURRY-
+STOLVED LOUNTHY TO TAVE TME CRALE OW, AND WINARRY TO EKTEHFINATE, ITS
+OGN RESS IFCHOBED CAHENT-WOHF AND OTMEH RESS-WABOUHED WOHFS GITM
+GMILM IT LOFES INTO LOFCETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = W
+{A} = O    {J} = U    {S} = E
+{B} = P    {K} = S    {T} = V
+{C} = B    {L} = X    {U} = T
+{D} = A    {M} = M    {V} = H
+{E} = K    {N} = D    {W} = J
+{F} = G    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = C    {Q} = Y    {Z} = F
+
+
+Trial number: 4
+Acceptance rate: 0.1285
+Score function: 21.976
+
+Plaintext (best guess):
+
+OD NOTUHOR DERELTIAN OLTD DARERY PY TME CHEDEHBOTIAN AS
+CHASITOPRE FAGISILOTIAND, EOLM NEW SAHF WIRR TENG IN O SURRY-
+DTALVEG LAUNTHY TA TOVE TME CROLE AS, ONG SINORRY TA EZTEHFINOTE, ITD
+AWN REDD IFCHABEG COHENT-SAHF ONG ATMEH REDD-SOBAUHEG SAHFD WITM
+WMILM IT LAFED INTA LAFCETITIAN.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = A    {J} = U    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = B    {L} = K    {U} = T
+{D} = O    {M} = M    {V} = H
+{E} = Z    {N} = G    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = X    {P} = N    {Y} = Q
+{H} = C    {Q} = Y    {Z} = F
+
+
+Trial number: 5
+Acceptance rate: 0.1313
+Score function: 21.964
+
+Plaintext (best guess):
+
+OS NOTUHOR SEREMTIAN OMTS SARERY PY TGE CHESEHBOTIAN AW
+CHAWITOPRE LADIWIMOTIANS, EOMG NEF WAHL FIRR TEND IN O WURRY-
+STAMVED MAUNTHY TA TOVE TGE CROME AW, OND WINORRY TA EKTEHLINOTE, ITS
+AFN RESS ILCHABED COHENT-WAHL OND ATGEH RESS-WOBAUHED WAHLS FITG
+FGIMG IT MALES INTA MALCETITIAN.
+
+Decryption key:
+
+{ } =      {I} = M    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = P    {K} = S    {T} = V
+{C} = B    {L} = J    {U} = T
+{D} = O    {M} = G    {V} = H
+{E} = K    {N} = D    {W} = Q
+{F} = F    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = X
+{H} = C    {Q} = Y    {Z} = L
+
+
+Trial number: 6
+Acceptance rate: 0.1205
+Score function: 21.948
+
+Plaintext (best guess):
+
+IS NITUHIR SERELTOAN ILTS SARERY PY TGE CHESEHKITOAN AW
+CHAWOTIPRE MADOWOLITOANS, EILG NEF WAHM FORR TEND ON I WURRY-
+STALVED LAUNTHY TA TIVE TGE CRILE AW, IND WONIRRY TA EBTEHMONITE, OTS
+AFN RESS OMCHAKED CIHENT-WAHM IND ATGEH RESS-WIKAUHED WAHMS FOTG
+FGOLG OT LAMES ONTA LAMCETOTOAN.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = P    {K} = S    {T} = V
+{C} = K    {L} = X    {U} = T
+{D} = I    {M} = G    {V} = H
+{E} = B    {N} = D    {W} = J
+{F} = F    {O} = R    {X} = O
+{G} = Z    {P} = N    {Y} = Q
+{H} = C    {Q} = Y    {Z} = M
+
+
+Trial number: 7
+Acceptance rate: 0.1196
+Score function: 21.980
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY BY TME CREDERPATION OS
+CROSITABHE FOGISILATIOND, EALM NEW SORF WIHH TENG IN A SUHHY-
+DTOLVEG LOUNTRY TO TAVE TME CHALE OS, ANG SINAHHY TO EZTERFINATE, ITD
+OWN HEDD IFCROPEG CARENT-SORF ANG OTMER HEDD-SAPOUREG SORFD WITM
+WMILM IT LOFED INTO LOFCETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = P    {L} = K    {U} = T
+{D} = A    {M} = M    {V} = R
+{E} = Z    {N} = G    {W} = J
+{F} = W    {O} = H    {X} = I
+{G} = Q    {P} = N    {Y} = X
+{H} = C    {Q} = Y    {Z} = F
+
+
+Trial number: 8
+Acceptance rate: 0.1220
+Score function: 21.967
+
+Plaintext (best guess):
+
+ID NITURIH DEHELTAON ILTD DOHEHY PY TME CREDERVITAON OS
+CROSATIPHE FOGASALITAOND, EILM NEW SORF WAHH TENG AN I SUHHY-
+DTOLBEG LOUNTRY TO TIBE TME CHILE OS, ING SANIHHY TO EXTERFANITE, ATD
+OWN HEDD AFCROVEG CIRENT-SORF ING OTMER HEDD-SIVOUREG SORFD WATM
+WMALM AT LOFED ANTO LOFCETATAON.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = V    {L} = J    {U} = T
+{D} = I    {M} = M    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = H    {X} = A
+{G} = Q    {P} = N    {Y} = Z
+{H} = C    {Q} = Y    {Z} = F
+
+
+Trial number: 9
+Acceptance rate: 0.1252
+Score function: 21.960
+
+Plaintext (best guess):
+
+AS NATPRAH SEHELTION ALTS SOHEHY BY TGE URESERCATION OW
+UROWITABHE MODIWILATIONS, EALG NEF WORM FIHH TEND IN A WPHHY-
+STOLVED LOPNTRY TO TAVE TGE UHALE OW, AND WINAHHY TO EXTERMINATE, ITS
+OFN HESS IMUROCED UARENT-WORM AND OTGER HESS-WACOPRED WORMS FITG
+FGILG IT LOMES INTO LOMUETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = W
+{A} = O    {J} = P    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = C    {L} = J    {U} = T
+{D} = A    {M} = G    {V} = R
+{E} = X    {N} = D    {W} = K
+{F} = F    {O} = H    {X} = I
+{G} = Q    {P} = N    {Y} = Z
+{H} = U    {Q} = Y    {Z} = M
+
+
+Trial number: 10
+Acceptance rate: 0.1256
+Score function: 21.953
+
+Plaintext (best guess):
+
+AD NATURAH DEHECTION ACTD DOHEHY JY TME WREDERBATION OS
+WROSITAJHE LOGISICATIOND, EACM NEF SORL FIHH TENG IN A SUHHY-
+DTOCVEG COUNTRY TO TAVE TME WHACE OS, ANG SINAHHY TO EPTERLINATE, ITD
+OFN HEDD ILWROBEG WARENT-SORL ANG OTMER HEDD-SABOUREG SORLD FITM
+FMICM IT COLED INTO COLWETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = J    {K} = D    {T} = V
+{C} = B    {L} = X    {U} = T
+{D} = A    {M} = M    {V} = R
+{E} = P    {N} = G    {W} = Q
+{F} = F    {O} = H    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = W    {Q} = Y    {Z} = L

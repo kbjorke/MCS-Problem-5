@@ -1,0 +1,268 @@
+Time: 2015-04-03 09:50:12
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1000
+lambda_1 = 0.10 
+lambda_2 = 0.90
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0873
+Score function: 22.946
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERFATION OS
+PROSITABLE MOGISICATIOND, EACH NEW SORM WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROFEG PARENT-SORM ANG OTHER LEDD-SAFOUREG SORMD WITH
+WHICH IT COMED INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = F    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 2
+Acceptance rate: 0.0804
+Score function: 22.928
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY KY THE PREDERBATION OF
+PROFITAKSE LOGIFICATIOND, EACH NEW FORL WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EMTERLINATE, ITD
+OWN SEDD ILPROBEG PARENT-FORL ANG OTHER SEDD-FABOUREG FORLD WITH
+WHICH IT COLED INTO COLPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = K    {K} = D    {T} = V
+{C} = B    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = M    {N} = G    {W} = X
+{F} = W    {O} = S    {X} = I
+{G} = Q    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = L
+
+
+Trial number: 3
+Acceptance rate: 0.0808
+Score function: 22.966
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY BY THE PREDERMATION OF
+PROFITABSE LOGIFICATIOND, EACH NEW FORL WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EXTERLINATE, ITD
+OWN SEDD ILPROMEG PARENT-FORL ANG OTHER SEDD-FAMOUREG FORLD WITH
+WHICH IT COLED INTO COLPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = S    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = L
+
+
+Trial number: 4
+Acceptance rate: 0.0825
+Score function: 22.909
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERJATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EMTERFINATE, ITD
+OWN LEDD IFPROJEG PARENT-SORF ANG OTHER LEDD-SAJOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = J    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = M    {N} = G    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 5
+Acceptance rate: 0.0808
+Score function: 22.966
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY BY THE PREDERMATION OF
+PROFITABSE LOGIFICATIOND, EACH NEW FORL WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EXTERLINATE, ITD
+OWN SEDD ILPROMEG PARENT-FORL ANG OTHER SEDD-FAMOUREG FORLD WITH
+WHICH IT COLED INTO COLPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = S    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = L
+
+
+Trial number: 6
+Acceptance rate: 0.0832
+Score function: 22.922
+
+Plaintext (best guess):
+
+AD NATURAS DESELTION ALTD DOSESY KY THE PREDERCATION OF
+PROFITAKSE MOGIFILATIOND, EALH NEW FORM WISS TENG IN A FUSSY-
+DTOLVEG LOUNTRY TO TAVE THE PSALE OF, ANG FINASSY TO EXTERMINATE, ITD
+OWN SEDD IMPROCEG PARENT-FORM ANG OTHER SEDD-FACOUREG FORMD WITH
+WHILH IT LOMED INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = K    {K} = D    {T} = V
+{C} = C    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = S    {X} = I
+{G} = J    {P} = N    {Y} = B
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 7
+Acceptance rate: 0.0813
+Score function: 22.959
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY BY THE PREDERMATION OF
+PROFITABSE LOGIFICATIOND, EACH NEW FORL WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EKTERLINATE, ITD
+OWN SEDD ILPROMEG PARENT-FORL ANG OTHER SEDD-FAMOUREG FORLD WITH
+WHICH IT COLED INTO COLPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = K    {N} = G    {W} = Q
+{F} = W    {O} = S    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = L
+
+
+Trial number: 8
+Acceptance rate: 0.0714
+Score function: 22.966
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY BY THE PREDERMATION OF
+PROFITABSE LOGIFICATIOND, EACH NEW FORL WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EXTERLINATE, ITD
+OWN SEDD ILPROMEG PARENT-FORL ANG OTHER SEDD-FAMOUREG FORLD WITH
+WHICH IT COLED INTO COLPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = S    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = L
+
+
+Trial number: 9
+Acceptance rate: 0.0806
+Score function: 22.959
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY BY THE PREDERMATION OF
+PROFITABSE LOGIFICATIOND, EACH NEW FORL WISS TENG IN A FUSSY-
+DTOCVEG COUNTRY TO TAVE THE PSACE OF, ANG FINASSY TO EKTERLINATE, ITD
+OWN SEDD ILPROMEG PARENT-FORL ANG OTHER SEDD-FAMOUREG FORLD WITH
+WHICH IT COLED INTO COLPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = K    {N} = G    {W} = Z
+{F} = W    {O} = S    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = L
+
+
+Trial number: 10
+Acceptance rate: 0.0832
+Score function: 22.933
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERFATION OS
+PROSITABLE MOGISICATIOND, EACH NEW SORM WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EJTERMINATE, ITD
+OWN LEDD IMPROFEG PARENT-SORM ANG OTHER LEDD-SAFOUREG SORMD WITH
+WHICH IT COMED INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = F    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = J    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = M

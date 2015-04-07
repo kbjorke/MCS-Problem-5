@@ -1,0 +1,268 @@
+Time: 2015-04-03 13:19:47
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 2000
+lambda_1 = 0.80 
+lambda_2 = 0.20
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0379
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = J
+{F} = F    {O} = V    {X} = I
+{G} = P    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 2
+Acceptance rate: 0.0323
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = P
+{F} = F    {O} = V    {X} = I
+{G} = J    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 3
+Acceptance rate: 0.0360
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = J    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = X
+{F} = F    {O} = V    {X} = I
+{G} = P    {P} = S    {Y} = M
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 4
+Acceptance rate: 0.0319
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = J    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = I
+{G} = X    {P} = S    {Y} = P
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 5
+Acceptance rate: 0.0362
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = J
+{F} = F    {O} = V    {X} = I
+{G} = X    {P} = S    {Y} = P
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 6
+Acceptance rate: 0.0369
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = P    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = X
+{F} = F    {O} = V    {X} = I
+{G} = M    {P} = S    {Y} = J
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 7
+Acceptance rate: 0.0318
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = J    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = I
+{G} = P    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 8
+Acceptance rate: 0.0318
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = J    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = I
+{G} = P    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 9
+Acceptance rate: 0.0334
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = J    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = X
+{F} = F    {O} = V    {X} = I
+{G} = M    {P} = S    {Y} = P
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 10
+Acceptance rate: 0.0339
+Score function: 35.839
+
+Plaintext (best guess):
+
+QD SQNCHQV DEVEUNITS QUND DTVEVG LG NRE WHEDEHZQNITS TA
+WHTAINQLVE OTYIAIUQNITSD, EQUR SEF ATHO FIVV NESY IS Q ACVVG-
+DNTUBEY UTCSNHG NT NQBE NRE WVQUE TA, QSY AISQVVG NT EKNEHOISQNE, IND
+TFS VEDD IOWHTZEY WQHESN-ATHO QSY TNREH VEDD-AQZTCHEY ATHOD FINR
+FRIUR IN UTOED ISNT UTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = A
+{A} = T    {J} = C    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = J    {U} = N
+{D} = Q    {M} = R    {V} = H
+{E} = K    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = I
+{G} = P    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O

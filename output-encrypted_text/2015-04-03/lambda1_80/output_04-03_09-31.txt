@@ -1,0 +1,268 @@
+Time: 2015-04-03 09:31:39
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 500
+lambda_1 = 0.80 
+lambda_2 = 0.20
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0680
+Score function: 38.009
+
+Plaintext (best guess):
+
+AD NATRQAV DEVECTION ACTD DOVEVY LY THE SQEDEQZATION OF
+SQOFITALVE UOGIFICATIOND, EACH NEW FOQU WIVV TENG IN A FRVVY-
+DTOCBEG CORNTQY TO TABE THE SVACE OF, ANG FINAVVY TO EXTEQUINATE, ITD
+OWN VEDD IUSQOZEG SAQENT-FOQU ANG OTHEQ VEDD-FAZORQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = V    {X} = I
+{G} = M    {P} = N    {Y} = P
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 2
+Acceptance rate: 0.0680
+Score function: 38.009
+
+Plaintext (best guess):
+
+AD NATRQAV DEVECTION ACTD DOVEVY LY THE SQEDEQZATION OF
+SQOFITALVE UOGIFICATIOND, EACH NEW FOQU WIVV TENG IN A FRVVY-
+DTOCBEG CORNTQY TO TABE THE SVACE OF, ANG FINAVVY TO EXTEQUINATE, ITD
+OWN VEDD IUSQOZEG SAQENT-FOQU ANG OTHEQ VEDD-FAZORQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = M
+{F} = W    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = P
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 3
+Acceptance rate: 0.0677
+Score function: 38.022
+
+Plaintext (best guess):
+
+AY NATRQAV YEVECTION ACTY YOVEVG LG THE SQEYEQZATION OF
+SQOFITALVE UODIFICATIONY, EACH NEW FOQU WIVV TEND IN A FRVVG-
+YTOCBED CORNTQG TO TABE THE SVACE OF, AND FINAVVG TO EXTEQUINATE, ITY
+OWN VEYY IUSQOZED SAQENT-FOQU AND OTHEQ VEYY-FAZORQED FOQUY WITH
+WHICH IT COUEY INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = Z    {L} = P    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = M
+{F} = W    {O} = V    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = S    {Q} = G    {Z} = U
+
+
+Trial number: 4
+Acceptance rate: 0.0733
+Score function: 37.984
+
+Plaintext (best guess):
+
+AY NATRQAV YEVECTION ACTY YOVEVG MG THE SQEYEQZATION OF
+SQOFITAMVE UODIFICATIONY, EACH NEW FOQU WIVV TEND IN A FRVVG-
+YTOCBED CORNTQG TO TABE THE SVACE OF, AND FINAVVG TO EXTEQUINATE, ITY
+OWN VEYY IUSQOZED SAQENT-FOQU AND OTHEQ VEYY-FAZORQED FOQUY WITH
+WHICH IT COUEY INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = M    {K} = Y    {T} = B
+{C} = Z    {L} = L    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = K
+{F} = W    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = P
+{H} = S    {Q} = G    {Z} = U
+
+
+Trial number: 5
+Acceptance rate: 0.0697
+Score function: 38.022
+
+Plaintext (best guess):
+
+AY NATRQAV YEVECTION ACTY YOVEVG LG THE SQEYEQZATION OF
+SQOFITALVE UODIFICATIONY, EACH NEW FOQU WIVV TEND IN A FRVVG-
+YTOCBED CORNTQG TO TABE THE SVACE OF, AND FINAVVG TO EXTEQUINATE, ITY
+OWN VEYY IUSQOZED SAQENT-FOQU AND OTHEQ VEYY-FAZORQED FOQUY WITH
+WHICH IT COUEY INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = Z    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = P
+{F} = W    {O} = V    {X} = I
+{G} = M    {P} = N    {Y} = K
+{H} = S    {Q} = G    {Z} = U
+
+
+Trial number: 6
+Acceptance rate: 0.0683
+Score function: 37.998
+
+Plaintext (best guess):
+
+AY NATRQAV YEVECTION ACTY YOVEVG LG THE SQEYEQMATION OF
+SQOFITALVE UODIFICATIONY, EACH NEW FOQU WIVV TEND IN A FRVVG-
+YTOCBED CORNTQG TO TABE THE SVACE OF, AND FINAVVG TO EXTEQUINATE, ITY
+OWN VEYY IUSQOMED SAQENT-FOQU AND OTHEQ VEYY-FAMORQED FOQUY WITH
+WHICH IT COUEY INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = V    {X} = I
+{G} = P    {P} = N    {Y} = Z
+{H} = S    {Q} = G    {Z} = U
+
+
+Trial number: 7
+Acceptance rate: 0.0688
+Score function: 38.022
+
+Plaintext (best guess):
+
+AY NATRQAV YEVECTION ACTY YOVEVG LG THE SQEYEQZATION OF
+SQOFITALVE UODIFICATIONY, EACH NEW FOQU WIVV TEND IN A FRVVG-
+YTOCBED CORNTQG TO TABE THE SVACE OF, AND FINAVVG TO EXTEQUINATE, ITY
+OWN VEYY IUSQOZED SAQENT-FOQU AND OTHEQ VEYY-FAZORQED FOQUY WITH
+WHICH IT COUEY INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = Z    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = P
+{F} = W    {O} = V    {X} = I
+{G} = K    {P} = N    {Y} = M
+{H} = S    {Q} = G    {Z} = U
+
+
+Trial number: 8
+Acceptance rate: 0.0727
+Score function: 38.009
+
+Plaintext (best guess):
+
+AD NATRQAV DEVECTION ACTD DOVEVY LY THE SQEDEQZATION OF
+SQOFITALVE UOGIFICATIOND, EACH NEW FOQU WIVV TENG IN A FRVVY-
+DTOCBEG CORNTQY TO TABE THE SVACE OF, ANG FINAVVY TO EXTEQUINATE, ITD
+OWN VEDD IUSQOZEG SAQENT-FOQU ANG OTHEQ VEDD-FAZORQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = M
+{F} = W    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = P
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 9
+Acceptance rate: 0.0665
+Score function: 38.022
+
+Plaintext (best guess):
+
+AY NATRQAV YEVECTION ACTY YOVEVG LG THE SQEYEQZATION OF
+SQOFITALVE UODIFICATIONY, EACH NEW FOQU WIVV TEND IN A FRVVG-
+YTOCBED CORNTQG TO TABE THE SVACE OF, AND FINAVVG TO EXTEQUINATE, ITY
+OWN VEYY IUSQOZED SAQENT-FOQU AND OTHEQ VEYY-FAZORQED FOQUY WITH
+WHICH IT COUEY INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = Z    {L} = P    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = V    {X} = I
+{G} = M    {P} = N    {Y} = K
+{H} = S    {Q} = G    {Z} = U
+
+
+Trial number: 10
+Acceptance rate: 0.0648
+Score function: 38.009
+
+Plaintext (best guess):
+
+AD NATRQAV DEVECTION ACTD DOVEVY LY THE SQEDEQZATION OF
+SQOFITALVE UOGIFICATIOND, EACH NEW FOQU WIVV TENG IN A FRVVY-
+DTOCBEG CORNTQY TO TABE THE SVACE OF, ANG FINAVVY TO EXTEQUINATE, ITD
+OWN VEDD IUSQOZEG SAQENT-FOQU ANG OTHEQ VEDD-FAZORQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = R    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = M    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = P
+{F} = W    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = S    {Q} = Y    {Z} = U

@@ -1,0 +1,268 @@
+Time: 2015-04-03 12:32:45
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 2000
+lambda_1 = 0.15 
+lambda_2 = 0.85
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0350
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 2
+Acceptance rate: 0.0307
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 3
+Acceptance rate: 0.0328
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 4
+Acceptance rate: 0.0316
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 5
+Acceptance rate: 0.0301
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 6
+Acceptance rate: 0.0316
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 7
+Acceptance rate: 0.0342
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 8
+Acceptance rate: 0.0343
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 9
+Acceptance rate: 0.0325
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 10
+Acceptance rate: 0.0319
+Score function: 23.994
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OS
+PROSITABLE FOGISICATIOND, EACH NEW SORF WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERFINATE, ITD
+OWN LEDD IFPROMEG PARENT-SORF ANG OTHER LEDD-SAMOUREG SORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = F

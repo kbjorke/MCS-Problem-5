@@ -1,0 +1,268 @@
+Time: 2015-04-03 11:26:30
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1500
+lambda_1 = 0.20 
+lambda_2 = 0.80
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0345
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 2
+Acceptance rate: 0.0296
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 3
+Acceptance rate: 0.0350
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 4
+Acceptance rate: 0.0323
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 5
+Acceptance rate: 0.0331
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 6
+Acceptance rate: 0.0342
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 7
+Acceptance rate: 0.0305
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 8
+Acceptance rate: 0.0336
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 9
+Acceptance rate: 0.0336
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = G
+
+
+Trial number: 10
+Acceptance rate: 0.0321
+Score function: 24.993
+
+Plaintext (best guess):
+
+AS NATURAL SELECTION ACTS SOLELY BY THE PRESERMATION OF
+PROFITABLE GODIFICATIONS, EACH NEW FORG WILL TEND IN A FULLY-
+STOCVED COUNTRY TO TAVE THE PLACE OF, AND FINALLY TO EXTERGINATE, ITS
+OWN LESS IGPROMED PARENT-FORG AND OTHER LESS-FAMOURED FORGS WITH
+WHICH IT COGES INTO COGPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = G

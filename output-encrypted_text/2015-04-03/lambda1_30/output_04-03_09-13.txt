@@ -1,0 +1,268 @@
+Time: 2015-04-03 09:13:06
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 500
+lambda_1 = 0.30 
+lambda_2 = 0.70
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0814
+Score function: 27.335
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY LY THE QUEDEUMATION OF
+QUOFITALRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = P
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = B
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 2
+Acceptance rate: 0.0678
+Score function: 27.328
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY PY THE QUEDEULATION OF
+QUOFITAPRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOLEG QAUENT-FOUS ANG OTHEU REDD-FALOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = L    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = M
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = B
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 3
+Acceptance rate: 0.0708
+Score function: 27.327
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY LY THE QUEDEUMATION OF
+QUOFITALRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EPTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = P    {N} = G    {W} = X
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 4
+Acceptance rate: 0.0717
+Score function: 27.335
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY LY THE QUEDEUMATION OF
+QUOFITALRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = P    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = B
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 5
+Acceptance rate: 0.0762
+Score function: 27.328
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY PY THE QUEDEULATION OF
+QUOFITAPRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOLEG QAUENT-FOUS ANG OTHEU REDD-FALOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = L    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = M    {P} = N    {Y} = K
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 6
+Acceptance rate: 0.0690
+Score function: 27.327
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY LY THE QUEDEUMATION OF
+QUOFITALRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EPTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = P    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 7
+Acceptance rate: 0.0778
+Score function: 27.328
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY PY THE QUEDEULATION OF
+QUOFITAPRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOLEG QAUENT-FOUS ANG OTHEU REDD-FALOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = L    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = M    {P} = N    {Y} = K
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 8
+Acceptance rate: 0.0663
+Score function: 27.328
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY PY THE QUEDEULATION OF
+QUOFITAPRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOLEG QAUENT-FOUS ANG OTHEU REDD-FALOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = L    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = M
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 9
+Acceptance rate: 0.0761
+Score function: 27.335
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY LY THE QUEDEUMATION OF
+QUOFITALRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = P    {P} = N    {Y} = B
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 10
+Acceptance rate: 0.0735
+Score function: 27.335
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY LY THE QUEDEUMATION OF
+QUOFITALRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = P
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = Q    {Q} = Y    {Z} = S

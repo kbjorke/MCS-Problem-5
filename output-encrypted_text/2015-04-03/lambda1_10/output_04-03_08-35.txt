@@ -1,0 +1,268 @@
+Time: 2015-04-03 08:35:59
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 500
+lambda_1 = 0.10 
+lambda_2 = 0.90
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.1661
+Score function: 22.912
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESG KG THE PREDERMATION OL
+PROLITAKSE FOYILICATIOND, EACH NEW LORF WISS TENY IN A LUSSG-
+DTOCVEY COUNTRG TO TAVE THE PSACE OL, ANY LINASSG TO EXTERFINATE, ITD
+OWN SEDD IFPROMEY PARENT-LORF ANY OTHER SEDD-LAMOUREY LORFD WITH
+WHICH IT COFED INTO COFPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = L
+{A} = O    {J} = U    {S} = E
+{B} = K    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = Y    {W} = Q
+{F} = W    {O} = S    {X} = I
+{G} = J    {P} = N    {Y} = B
+{H} = P    {Q} = G    {Z} = F
+
+
+Trial number: 2
+Acceptance rate: 0.1618
+Score function: 22.790
+
+Plaintext (best guess):
+
+ID NITMUIR DERESTAON ISTD DORERY KY THE QUEDEUCITAON OF
+QUOFATIKRE LOGAFASITAOND, EISH NEW FOUL WARR TENG AN I FMRRY-
+DTOSVEG SOMNTUY TO TIVE THE QRISE OF, ING FANIRRY TO EJTEULANITE, ATD
+OWN REDD ALQUOCEG QIUENT-FOUL ING OTHEU REDD-FICOMUEG FOULD WATH
+WHASH AT SOLED ANTO SOLQETATAON.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = F
+{A} = O    {J} = M    {S} = E
+{B} = K    {K} = D    {T} = V
+{C} = C    {L} = X    {U} = T
+{D} = I    {M} = H    {V} = U
+{E} = J    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = A
+{G} = P    {P} = N    {Y} = B
+{H} = Q    {Q} = Y    {Z} = L
+
+
+Trial number: 3
+Acceptance rate: 0.1621
+Score function: 22.825
+
+Plaintext (best guess):
+
+AD NATURAL DELESTION ASTD DOLELY JY THE PREDERCATION OW
+PROWITAJLE FOGIWISATIOND, EASH NEM WORF MILL TENG IN A WULLY-
+DTOSVEG SOUNTRY TO TAVE THE PLASE OW, ANG WINALLY TO EQTERFINATE, ITD
+OMN LEDD IFPROCEG PARENT-WORF ANG OTHER LEDD-WACOUREG WORFD MITH
+MHISH IT SOFED INTO SOFPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = W
+{A} = O    {J} = U    {S} = E
+{B} = J    {K} = D    {T} = V
+{C} = C    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = Q    {N} = G    {W} = Z
+{F} = M    {O} = L    {X} = I
+{G} = B    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 4
+Acceptance rate: 0.1628
+Score function: 22.836
+
+Plaintext (best guess):
+
+AD NATULAR DERECTION ACTD DORERY PY THE BLEDELMATION OS
+BLOSITAPRE FOGISICATIOND, EACH NEW SOLF WIRR TENG IN A SURRY-
+DTOCZEG COUNTLY TO TAZE THE BRACE OS, ANG SINARRY TO EQTELFINATE, ITD
+OWN REDD IFBLOMEG BALENT-SOLF ANG OTHEL REDD-SAMOULEG SOLFD WITH
+WHICH IT COFED INTO COFBETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = P    {K} = D    {T} = Z
+{C} = M    {L} = V    {U} = T
+{D} = A    {M} = H    {V} = L
+{E} = Q    {N} = G    {W} = X
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = B    {Q} = Y    {Z} = F
+
+
+Trial number: 5
+Acceptance rate: 0.1575
+Score function: 22.777
+
+Plaintext (best guess):
+
+AD NATBRAL DELECTION ACTD DOLELY ZY THE PREDERUATION OF
+PROFITAZLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FBLLY-
+DTOCVEG COBNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EMTERSINATE, ITD
+OWN LEDD ISPROUEG PARENT-FORS ANG OTHER LEDD-FAUOBREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = B    {S} = E
+{B} = Z    {K} = D    {T} = V
+{C} = U    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = M    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = X    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 6
+Acceptance rate: 0.1605
+Score function: 22.789
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY JY THE PREDERMATION OS
+PROSITAJLE WOGISICATIOND, EACH NEF SORW FILL TENG IN A SULLY-
+DTOCZEG COUNTRY TO TAZE THE PLACE OS, ANG SINALLY TO EBTERWINATE, ITD
+OFN LEDD IWPROMEG PARENT-SORW ANG OTHER LEDD-SAMOUREG SORWD FITH
+FHICH IT COWED INTO COWPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = J    {K} = D    {T} = Z
+{C} = M    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = B    {N} = G    {W} = K
+{F} = F    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = V
+{H} = P    {Q} = Y    {Z} = W
+
+
+Trial number: 7
+Acceptance rate: 0.1572
+Score function: 22.848
+
+Plaintext (best guess):
+
+ID NITURIS DESECTAON ICTD DOSESY PY THE FREDERVITAON OM
+FROMATIPSE LOGAMACITAOND, EICH NEW MORL WASS TENG AN I MUSSY-
+DTOCKEG COUNTRY TO TIKE THE FSICE OM, ING MANISSY TO EJTERLANITE, ATD
+OWN SEDD ALFROVEG FIRENT-MORL ING OTHER SEDD-MIVOUREG MORLD WATH
+WHACH AT COLED ANTO COLFETATAON.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = M
+{A} = O    {J} = U    {S} = E
+{B} = P    {K} = D    {T} = K
+{C} = V    {L} = Z    {U} = T
+{D} = I    {M} = H    {V} = R
+{E} = J    {N} = G    {W} = B
+{F} = W    {O} = S    {X} = A
+{G} = Q    {P} = N    {Y} = X
+{H} = F    {Q} = Y    {Z} = L
+
+
+Trial number: 8
+Acceptance rate: 0.1698
+Score function: 22.793
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY CY TVE PREDERZATION OM
+PROMITACHE SOGIMILATIOND, EALV NEW MORS WIHH TENG IN A MUHHY-
+DTOLBEG LOUNTRY TO TABE TVE PHALE OM, ANG MINAHHY TO EFTERSINATE, ITD
+OWN HEDD ISPROZEG PARENT-MORS ANG OTVER HEDD-MAZOUREG MORSD WITV
+WVILV IT LOSED INTO LOSPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = M
+{A} = O    {J} = U    {S} = E
+{B} = C    {K} = D    {T} = B
+{C} = Z    {L} = X    {U} = T
+{D} = A    {M} = V    {V} = R
+{E} = F    {N} = G    {W} = Q
+{F} = W    {O} = H    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 9
+Acceptance rate: 0.1558
+Score function: 22.860
+
+Plaintext (best guess):
+
+ID NITURIS DESECTAON ICTD DOSESY ZY THE FREDERBITAON OM
+FROMATIZSE LOGAMACITAOND, EICH NEW MORL WASS TENG AN I MUSSY-
+DTOCVEG COUNTRY TO TIVE THE FSICE OM, ING MANISSY TO EPTERLANITE, ATD
+OWN SEDD ALFROBEG FIRENT-MORL ING OTHER SEDD-MIBOUREG MORLD WATH
+WHACH AT COLED ANTO COLFETATAON.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = M
+{A} = O    {J} = U    {S} = E
+{B} = Z    {K} = D    {T} = V
+{C} = B    {L} = J    {U} = T
+{D} = I    {M} = H    {V} = R
+{E} = P    {N} = G    {W} = X
+{F} = W    {O} = S    {X} = A
+{G} = Q    {P} = N    {Y} = K
+{H} = F    {Q} = Y    {Z} = L
+
+
+Trial number: 10
+Acceptance rate: 0.1562
+Score function: 22.814
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY VY THE WREDERPATION OS
+WROSITAVLE MOGISICATIOND, EACH NEF SORM FILL TENG IN A SULLY-
+DTOCBEG COUNTRY TO TABE THE WLACE OS, ANG SINALLY TO EKTERMINATE, ITD
+OFN LEDD IMWROPEG WARENT-SORM ANG OTHER LEDD-SAPOUREG SORMD FITH
+FHICH IT COMED INTO COMWETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = V    {K} = D    {T} = B
+{C} = P    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = K    {N} = G    {W} = Q
+{F} = F    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = X
+{H} = W    {Q} = Y    {Z} = M

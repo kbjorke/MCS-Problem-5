@@ -1,0 +1,268 @@
+Time: 2015-04-03 13:29:09
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 2500
+lambda_1 = 0.05 
+lambda_2 = 0.95
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0554
+Score function: 21.986
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY CY TFE PREDERBATION OS
+PROSITACHE MOGISILATIOND, EALF NEW SORM WIHH TENG IN A SUHHY-
+DTOLVEG LOUNTRY TO TAVE TFE PHALE OS, ANG SINAHHY TO EXTERMINATE, ITD
+OWN HEDD IMPROBEG PARENT-SORM ANG OTFER HEDD-SABOUREG SORMD WITF
+WFILF IT LOMED INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = C    {K} = D    {T} = V
+{C} = B    {L} = J    {U} = T
+{D} = A    {M} = F    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = H    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 2
+Acceptance rate: 0.0526
+Score function: 21.989
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY BY TFE PREDERCATION OS
+PROSITABHE MOGISILATIOND, EALF NEW SORM WIHH TENG IN A SUHHY-
+DTOLVEG LOUNTRY TO TAVE TFE PHALE OS, ANG SINAHHY TO EXTERMINATE, ITD
+OWN HEDD IMPROCEG PARENT-SORM ANG OTFER HEDD-SACOUREG SORMD WITF
+WFILF IT LOMED INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = Q    {U} = T
+{D} = A    {M} = F    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = H    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 3
+Acceptance rate: 0.0580
+Score function: 21.984
+
+Plaintext (best guess):
+
+AS NATURAH SEHECTION ACTS SOHEHY WY TGE PRESERBATION OL
+PROLITAWHE MODILICATIONS, EACG NEF LORM FIHH TEND IN A LUHHY-
+STOCVED COUNTRY TO TAVE TGE PHACE OL, AND LINAHHY TO EXTERMINATE, ITS
+OFN HESS IMPROBED PARENT-LORM AND OTGER HESS-LABOURED LORMS FITG
+FGICG IT COMES INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = L
+{A} = O    {J} = U    {S} = E
+{B} = W    {K} = S    {T} = V
+{C} = B    {L} = Q    {U} = T
+{D} = A    {M} = G    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = F    {O} = H    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 4
+Acceptance rate: 0.0568
+Score function: 21.995
+
+Plaintext (best guess):
+
+AS NATURAH SEHELTION ALTS SOHEHY BY TGE PRESERCATION OF
+PROFITABHE MODIFILATIONS, EALG NEW FORM WIHH TEND IN A FUHHY-
+STOLVED LOUNTRY TO TAVE TGE PHALE OF, AND FINAHHY TO EXTERMINATE, ITS
+OWN HESS IMPROCED PARENT-FORM AND OTGER HESS-FACOURED FORMS WITG
+WGILG IT LOMES INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = C    {L} = K    {U} = T
+{D} = A    {M} = G    {V} = R
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = H    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 5
+Acceptance rate: 0.0528
+Score function: 21.995
+
+Plaintext (best guess):
+
+AS NATURAH SEHELTION ALTS SOHEHY BY TGE PRESERCATION OF
+PROFITABHE MODIFILATIONS, EALG NEW FORM WIHH TEND IN A FUHHY-
+STOLVED LOUNTRY TO TAVE TGE PHALE OF, AND FINAHHY TO EXTERMINATE, ITS
+OWN HESS IMPROCED PARENT-FORM AND OTGER HESS-FACOURED FORMS WITG
+WGILG IT LOMES INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = C    {L} = Z    {U} = T
+{D} = A    {M} = G    {V} = R
+{E} = X    {N} = D    {W} = K
+{F} = W    {O} = H    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 6
+Acceptance rate: 0.0570
+Score function: 21.989
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY BY TFE PREDERCATION OS
+PROSITABHE MOGISILATIOND, EALF NEW SORM WIHH TENG IN A SUHHY-
+DTOLVEG LOUNTRY TO TAVE TFE PHALE OS, ANG SINAHHY TO EXTERMINATE, ITD
+OWN HEDD IMPROCEG PARENT-SORM ANG OTFER HEDD-SACOUREG SORMD WITF
+WFILF IT LOMED INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = J    {U} = T
+{D} = A    {M} = F    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = H    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 7
+Acceptance rate: 0.0567
+Score function: 21.987
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY BY TME PREDERCATION OS
+PROSITABHE FOGISILATIOND, EALM NEW SORF WIHH TENG IN A SUHHY-
+DTOLVEG LOUNTRY TO TAVE TME PHALE OS, ANG SINAHHY TO EKTERFINATE, ITD
+OWN HEDD IFPROCEG PARENT-SORF ANG OTMER HEDD-SACOUREG SORFD WITM
+WMILM IT LOFED INTO LOFPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = Q    {U} = T
+{D} = A    {M} = M    {V} = R
+{E} = K    {N} = G    {W} = Z
+{F} = W    {O} = H    {X} = I
+{G} = X    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = F
+
+
+Trial number: 8
+Acceptance rate: 0.0508
+Score function: 21.995
+
+Plaintext (best guess):
+
+AS NATURAH SEHELTION ALTS SOHEHY BY TGE PRESERCATION OF
+PROFITABHE MODIFILATIONS, EALG NEW FORM WIHH TEND IN A FUHHY-
+STOLVED LOUNTRY TO TAVE TGE PHALE OF, AND FINAHHY TO EXTERMINATE, ITS
+OWN HESS IMPROCED PARENT-FORM AND OTGER HESS-FACOURED FORMS WITG
+WGILG IT LOMES INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = C    {L} = Z    {U} = T
+{D} = A    {M} = G    {V} = R
+{E} = X    {N} = D    {W} = Q
+{F} = W    {O} = H    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 9
+Acceptance rate: 0.0555
+Score function: 21.989
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY BY TFE PREDERCATION OS
+PROSITABHE MOGISILATIOND, EALF NEW SORM WIHH TENG IN A SUHHY-
+DTOLVEG LOUNTRY TO TAVE TFE PHALE OS, ANG SINAHHY TO EXTERMINATE, ITD
+OWN HEDD IMPROCEG PARENT-SORM ANG OTFER HEDD-SACOUREG SORMD WITF
+WFILF IT LOMED INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = K    {U} = T
+{D} = A    {M} = F    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = H    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 10
+Acceptance rate: 0.0603
+Score function: 21.989
+
+Plaintext (best guess):
+
+AD NATURAH DEHELTION ALTD DOHEHY BY TFE PREDERCATION OS
+PROSITABHE MOGISILATIOND, EALF NEW SORM WIHH TENG IN A SUHHY-
+DTOLVEG LOUNTRY TO TAVE TFE PHALE OS, ANG SINAHHY TO EXTERMINATE, ITD
+OWN HEDD IMPROCEG PARENT-SORM ANG OTFER HEDD-SACOUREG SORMD WITF
+WFILF IT LOMED INTO LOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = C    {L} = K    {U} = T
+{D} = A    {M} = F    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = H    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = M

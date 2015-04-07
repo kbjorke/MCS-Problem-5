@@ -1,0 +1,268 @@
+Time: 2015-04-03 15:52:55
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 3000
+lambda_1 = 0.80 
+lambda_2 = 0.20
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0238
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = K    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = Q
+{F} = C    {O} = V    {X} = H
+{G} = J    {P} = S    {Y} = Z
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 2
+Acceptance rate: 0.0215
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = K    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = Z
+{F} = C    {O} = V    {X} = H
+{G} = J    {P} = S    {Y} = Q
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 3
+Acceptance rate: 0.0228
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = Z    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = J
+{F} = C    {O} = V    {X} = H
+{G} = K    {P} = S    {Y} = Q
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 4
+Acceptance rate: 0.0234
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = J    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = K
+{F} = C    {O} = V    {X} = H
+{G} = Q    {P} = S    {Y} = Z
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 5
+Acceptance rate: 0.0232
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = J    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = Z
+{F} = C    {O} = V    {X} = H
+{G} = Q    {P} = S    {Y} = K
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 6
+Acceptance rate: 0.0211
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = Z    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = K
+{F} = C    {O} = V    {X} = H
+{G} = J    {P} = S    {Y} = Q
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 7
+Acceptance rate: 0.0220
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = K    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = Q
+{F} = C    {O} = V    {X} = H
+{G} = Z    {P} = S    {Y} = J
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 8
+Acceptance rate: 0.0214
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = K    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = Q
+{F} = C    {O} = V    {X} = H
+{G} = J    {P} = S    {Y} = Z
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 9
+Acceptance rate: 0.0221
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = J    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = K
+{F} = C    {O} = V    {X} = H
+{G} = Q    {P} = S    {Y} = Z
+{H} = P    {Q} = F    {Z} = M
+
+
+Trial number: 10
+Acceptance rate: 0.0227
+Score function: 35.608
+
+Plaintext (best guess):
+
+ID SITURIV DEVENTHAS INTD DAVEVF OF TGE PREDERLITHAS AW
+PRAWHTIOVE MAYHWHNITHASD, EING SEC WARM CHVV TESY HS I WUVVF-
+DTANBEY NAUSTRF TA TIBE TGE PVINE AW, ISY WHSIVVF TA EXTERMHSITE, HTD
+ACS VEDD HMPRALEY PIREST-WARM ISY ATGER VEDD-WILAUREY WARMD CHTG
+CGHNG HT NAMED HSTA NAMPETHTHAS.
+
+Decryption key:
+
+{ } =      {I} = N    {R} = W
+{A} = A    {J} = U    {S} = E
+{B} = O    {K} = D    {T} = B
+{C} = L    {L} = Q    {U} = T
+{D} = I    {M} = G    {V} = R
+{E} = X    {N} = Y    {W} = J
+{F} = C    {O} = V    {X} = H
+{G} = K    {P} = S    {Y} = Z
+{H} = P    {Q} = F    {Z} = M

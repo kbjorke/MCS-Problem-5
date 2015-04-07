@@ -1,0 +1,268 @@
+Time: 2015-04-03 11:55:00
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1500
+lambda_1 = 0.50 
+lambda_2 = 0.50
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0350
+Score function: 29.902
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NVE WHEDEHMANITS TF
+WHTFINAPRE OTYIFILANITSD, EALV SEK FTHO KIRR NESY IS A FCRRG-
+DNTLBEY LTCSNHG NT NABE NVE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TKS REDD IOWHTMEY WAHESN-FTHO ASY TNVEH REDD-FAMTCHEY FTHOD KINV
+KVILV IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = M    {L} = Z    {U} = N
+{D} = A    {M} = V    {V} = H
+{E} = U    {N} = Y    {W} = X
+{F} = K    {O} = R    {X} = I
+{G} = Q    {P} = S    {Y} = J
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 2
+Acceptance rate: 0.0316
+Score function: 29.902
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NVE WHEDEHMANITS TF
+WHTFINAPRE OTYIFILANITSD, EALV SEK FTHO KIRR NESY IS A FCRRG-
+DNTLBEY LTCSNHG NT NABE NVE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TKS REDD IOWHTMEY WAHESN-FTHO ASY TNVEH REDD-FAMTCHEY FTHOD KINV
+KVILV IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = M    {L} = Z    {U} = N
+{D} = A    {M} = V    {V} = H
+{E} = U    {N} = Y    {W} = J
+{F} = K    {O} = R    {X} = I
+{G} = Q    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 3
+Acceptance rate: 0.0309
+Score function: 29.902
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NVE WHEDEHMANITS TF
+WHTFINAPRE OTYIFILANITSD, EALV SEK FTHO KIRR NESY IS A FCRRG-
+DNTLBEY LTCSNHG NT NABE NVE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TKS REDD IOWHTMEY WAHESN-FTHO ASY TNVEH REDD-FAMTCHEY FTHOD KINV
+KVILV IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = M    {L} = Q    {U} = N
+{D} = A    {M} = V    {V} = H
+{E} = U    {N} = Y    {W} = J
+{F} = K    {O} = R    {X} = I
+{G} = Z    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 4
+Acceptance rate: 0.0336
+Score function: 29.902
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NVE WHEDEHMANITS TF
+WHTFINAPRE OTYIFILANITSD, EALV SEK FTHO KIRR NESY IS A FCRRG-
+DNTLBEY LTCSNHG NT NABE NVE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TKS REDD IOWHTMEY WAHESN-FTHO ASY TNVEH REDD-FAMTCHEY FTHOD KINV
+KVILV IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = M    {L} = Q    {U} = N
+{D} = A    {M} = V    {V} = H
+{E} = U    {N} = Y    {W} = Z
+{F} = K    {O} = R    {X} = I
+{G} = X    {P} = S    {Y} = J
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 5
+Acceptance rate: 0.0316
+Score function: 29.902
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NVE WHEDEHMANITS TF
+WHTFINAPRE OTYIFILANITSD, EALV SEK FTHO KIRR NESY IS A FCRRG-
+DNTLBEY LTCSNHG NT NABE NVE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TKS REDD IOWHTMEY WAHESN-FTHO ASY TNVEH REDD-FAMTCHEY FTHOD KINV
+KVILV IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = M    {L} = X    {U} = N
+{D} = A    {M} = V    {V} = H
+{E} = U    {N} = Y    {W} = Q
+{F} = K    {O} = R    {X} = I
+{G} = J    {P} = S    {Y} = Z
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 6
+Acceptance rate: 0.0321
+Score function: 29.902
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NVE WHEDEHMANITS TF
+WHTFINAPRE OTYIFILANITSD, EALV SEK FTHO KIRR NESY IS A FCRRG-
+DNTLBEY LTCSNHG NT NABE NVE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TKS REDD IOWHTMEY WAHESN-FTHO ASY TNVEH REDD-FAMTCHEY FTHOD KINV
+KVILV IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = M    {L} = Q    {U} = N
+{D} = A    {M} = V    {V} = H
+{E} = U    {N} = Y    {W} = J
+{F} = K    {O} = R    {X} = I
+{G} = X    {P} = S    {Y} = Z
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 7
+Acceptance rate: 0.0319
+Score function: 29.901
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NKE WHEDEHBANITS TF
+WHTFINAPRE OTYIFILANITSD, EALK SEM FTHO MIRR NESY IS A FCRRG-
+DNTLVEY LTCSNHG NT NAVE NKE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TMS REDD IOWHTBEY WAHESN-FTHO ASY TNKEH REDD-FABTCHEY FTHOD MINK
+MKILK IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = B    {L} = Z    {U} = N
+{D} = A    {M} = K    {V} = H
+{E} = U    {N} = Y    {W} = J
+{F} = M    {O} = R    {X} = I
+{G} = Q    {P} = S    {Y} = X
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 8
+Acceptance rate: 0.0318
+Score function: 29.902
+
+Plaintext (best guess):
+
+AD SANCHAR DERELNITS ALND DTRERG PG NVE WHEDEHMANITS TF
+WHTFINAPRE OTYIFILANITSD, EALV SEK FTHO KIRR NESY IS A FCRRG-
+DNTLBEY LTCSNHG NT NABE NVE WRALE TF, ASY FISARRG NT EUNEHOISANE, IND
+TKS REDD IOWHTMEY WAHESN-FTHO ASY TNVEH REDD-FAMTCHEY FTHOD KINV
+KVILV IN LTOED ISNT LTOWENINITS.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = F
+{A} = T    {J} = C    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = M    {L} = X    {U} = N
+{D} = A    {M} = V    {V} = H
+{E} = U    {N} = Y    {W} = Z
+{F} = K    {O} = R    {X} = I
+{G} = J    {P} = S    {Y} = Q
+{H} = W    {Q} = G    {Z} = O
+
+
+Trial number: 9
+Acceptance rate: 0.0274
+Score function: 30.099
+
+Plaintext (best guess):
+
+OD RONWHOV DEVEUNATR OUND DTVEVF LF NGE CHEDEHZONATR TS
+CHTSANOLVE ITYASAUONATRD, EOUG REM STHI MAVV NERY AR O SWVVF-
+DNTUBEY UTWRNHF NT NOBE NGE CVOUE TS, ORY SAROVVF NT EKNEHIARONE, AND
+TMR VEDD AICHTZEY COHERN-STHI ORY TNGEH VEDD-SOZTWHEY STHID MANG
+MGAUG AN UTIED ARNT UTICENANATR.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = S
+{A} = T    {J} = W    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = X    {U} = N
+{D} = O    {M} = G    {V} = H
+{E} = K    {N} = Y    {W} = J
+{F} = M    {O} = V    {X} = A
+{G} = P    {P} = R    {Y} = Q
+{H} = C    {Q} = F    {Z} = I
+
+
+Trial number: 10
+Acceptance rate: 0.0290
+Score function: 30.099
+
+Plaintext (best guess):
+
+OD RONWHOV DEVEUNATR OUND DTVEVF LF NGE CHEDEHZONATR TS
+CHTSANOLVE ITYASAUONATRD, EOUG REM STHI MAVV NERY AR O SWVVF-
+DNTUBEY UTWRNHF NT NOBE NGE CVOUE TS, ORY SAROVVF NT EKNEHIARONE, AND
+TMR VEDD AICHTZEY COHERN-STHI ORY TNGEH VEDD-SOZTWHEY STHID MANG
+MGAUG AN UTIED ARNT UTICENANATR.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = S
+{A} = T    {J} = W    {S} = E
+{B} = L    {K} = D    {T} = B
+{C} = Z    {L} = X    {U} = N
+{D} = O    {M} = G    {V} = H
+{E} = K    {N} = Y    {W} = Q
+{F} = M    {O} = V    {X} = A
+{G} = J    {P} = R    {Y} = P
+{H} = C    {Q} = F    {Z} = I

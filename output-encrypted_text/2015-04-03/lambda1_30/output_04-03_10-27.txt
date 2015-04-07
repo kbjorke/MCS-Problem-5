@@ -1,0 +1,268 @@
+Time: 2015-04-03 10:27:17
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1000
+lambda_1 = 0.30 
+lambda_2 = 0.70
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0510
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 2
+Acceptance rate: 0.0525
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = B
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 3
+Acceptance rate: 0.0480
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = K
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 4
+Acceptance rate: 0.0531
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 5
+Acceptance rate: 0.0488
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = B
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 6
+Acceptance rate: 0.0546
+Score function: 27.002
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EBTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = B    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = X    {P} = N    {Y} = J
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 7
+Acceptance rate: 0.0489
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = K
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 8
+Acceptance rate: 0.0530
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 9
+Acceptance rate: 0.0475
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = J
+{H} = L    {Q} = Y    {Z} = U
+
+
+Trial number: 10
+Acceptance rate: 0.0506
+Score function: 27.028
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY PY THE LQEDEQMATION OS
+LQOSITAPRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE LRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IULQOMEG LAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COULETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = J
+{H} = L    {Q} = Y    {Z} = U

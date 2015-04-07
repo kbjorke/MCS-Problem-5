@@ -1,0 +1,268 @@
+Time: 2015-04-03 08:26:38
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 500
+lambda_1 = 0.05 
+lambda_2 = 0.95
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.2163
+Score function: 21.822
+
+Plaintext (best guess):
+
+OS IONWHOR SEREUNATI OUNS STRERY BY NLE CHESEHPONATI TM
+CHTMANOBRE GTDAMAUONATIS, EOUL IEF MTHG FARR NEID AI O MWRRY-
+SNTUVED UTWINHY NT NOVE NLE CROUE TM, OID MAIORRY NT EXNEHGAIONE, ANS
+TFI RESS AGCHTPED COHEIN-MTHG OID TNLEH RESS-MOPTWHED MTHGS FANL
+FLAUL AN UTGES AINT UTGCENANATI.
+
+Decryption key:
+
+{ } =      {I} = U    {R} = M
+{A} = T    {J} = W    {S} = E
+{B} = B    {K} = S    {T} = V
+{C} = P    {L} = Z    {U} = N
+{D} = O    {M} = L    {V} = H
+{E} = X    {N} = D    {W} = Q
+{F} = F    {O} = R    {X} = A
+{G} = K    {P} = I    {Y} = J
+{H} = C    {Q} = Y    {Z} = G
+
+
+Trial number: 2
+Acceptance rate: 0.2197
+Score function: 21.844
+
+Plaintext (best guess):
+
+ID NITBHIR DERELTOAN ILTD DARERY PY TCE WHEDEHFITOAN AS
+WHASOTIPRE MAGOSOLITOAND, EILC NEU SAHM UORR TENG ON I SBRRY-
+DTALJEG LABNTHY TA TIJE TCE WRILE AS, ING SONIRRY TA EVTEHMONITE, OTD
+AUN REDD OMWHAFEG WIHENT-SAHM ING ATCEH REDD-SIFABHEG SAHMD UOTC
+UCOLC OT LAMED ONTA LAMWETOTOAN.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = A    {J} = B    {S} = E
+{B} = P    {K} = D    {T} = J
+{C} = F    {L} = Q    {U} = T
+{D} = I    {M} = C    {V} = H
+{E} = V    {N} = G    {W} = X
+{F} = U    {O} = R    {X} = O
+{G} = Z    {P} = N    {Y} = K
+{H} = W    {Q} = Y    {Z} = M
+
+
+Trial number: 3
+Acceptance rate: 0.2223
+Score function: 21.878
+
+Plaintext (best guess):
+
+OD NOTKHOR DERELTIAN OLTD DARERG PG TFE WHEDEHVOTIAN AS
+WHASITOPRE MAYISILOTIAND, EOLF NEU SAHM UIRR TENY IN O SKRRG-
+DTALCEY LAKNTHG TA TOCE TFE WROLE AS, ONY SINORRG TA EXTEHMINOTE, ITD
+AUN REDD IMWHAVEY WOHENT-SAHM ONY ATFEH REDD-SOVAKHEY SAHMD UITF
+UFILF IT LAMED INTA LAMWETITIAN.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = S
+{A} = A    {J} = K    {S} = E
+{B} = P    {K} = D    {T} = C
+{C} = V    {L} = Q    {U} = T
+{D} = O    {M} = F    {V} = H
+{E} = X    {N} = Y    {W} = Z
+{F} = U    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = B
+{H} = W    {Q} = G    {Z} = M
+
+
+Trial number: 4
+Acceptance rate: 0.2185
+Score function: 21.865
+
+Plaintext (best guess):
+
+IS NITURIH SEHECTAON ICTS SOHEHY GY TBE WRESERVITAON OM
+WROMATIGHE LODAMACITAONS, EICB NEF MORL FAHH TEND AN I MUHHY-
+STOCKED COUNTRY TO TIKE TBE WHICE OM, IND MANIHHY TO EQTERLANITE, ATS
+OFN HESS ALWROVED WIRENT-MORL IND OTBER HESS-MIVOURED MORLS FATB
+FBACB AT COLES ANTO COLWETATAON.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = M
+{A} = O    {J} = U    {S} = E
+{B} = G    {K} = S    {T} = K
+{C} = V    {L} = X    {U} = T
+{D} = I    {M} = B    {V} = R
+{E} = Q    {N} = D    {W} = Z
+{F} = F    {O} = H    {X} = A
+{G} = J    {P} = N    {Y} = P
+{H} = W    {Q} = Y    {Z} = L
+
+
+Trial number: 5
+Acceptance rate: 0.2182
+Score function: 21.853
+
+Plaintext (best guess):
+
+AD NATMHAS DESELTION ALTD DOSESY UY TVE CHEDEHZATION OR
+CHORITAUSE FOGIRILATIOND, EALV NEW ROHF WISS TENG IN A RMSSY-
+DTOLKEG LOMNTHY TO TAKE TVE CSALE OR, ANG RINASSY TO EJTEHFINATE, ITD
+OWN SEDD IFCHOZEG CAHENT-ROHF ANG OTVEH SEDD-RAZOMHEG ROHFD WITV
+WVILV IT LOFED INTO LOFCETITION.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = R
+{A} = O    {J} = M    {S} = E
+{B} = U    {K} = D    {T} = K
+{C} = Z    {L} = Q    {U} = T
+{D} = A    {M} = V    {V} = H
+{E} = J    {N} = G    {W} = X
+{F} = W    {O} = S    {X} = I
+{G} = P    {P} = N    {Y} = B
+{H} = C    {Q} = Y    {Z} = F
+
+
+Trial number: 6
+Acceptance rate: 0.2115
+Score function: 21.919
+
+Plaintext (best guess):
+
+ID NITUHIR DERESTAON ISTD DORERG XG TME CHEDEHVITAON OL
+CHOLATIXRE FOYALASITAOND, EISM NEW LOHF WARR TENY AN I LURRG-
+DTOSBEY SOUNTHG TO TIBE TME CRISE OL, INY LANIRRG TO EPTEHFANITE, ATD
+OWN REDD AFCHOVEY CIHENT-LOHF INY OTMEH REDD-LIVOUHEY LOHFD WATM
+WMASM AT SOFED ANTO SOFCETATAON.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = L
+{A} = O    {J} = U    {S} = E
+{B} = X    {K} = D    {T} = B
+{C} = V    {L} = J    {U} = T
+{D} = I    {M} = M    {V} = H
+{E} = P    {N} = Y    {W} = K
+{F} = W    {O} = R    {X} = A
+{G} = Z    {P} = N    {Y} = Q
+{H} = C    {Q} = G    {Z} = F
+
+
+Trial number: 7
+Acceptance rate: 0.2182
+Score function: 21.799
+
+Plaintext (best guess):
+
+ID SITWHIN DENERTOAS IRTD DANENG UG TLE PHEDEHVITOAS AF
+PHAFOTIUNE MAYOFORITOASD, EIRL SEC FAHM CONN TESY OS I FWNNG-
+DTARJEY RAWSTHG TA TIJE TLE PNIRE AF, ISY FOSINNG TA EBTEHMOSITE, OTD
+ACS NEDD OMPHAVEY PIHEST-FAHM ISY ATLEH NEDD-FIVAWHEY FAHMD COTL
+CLORL OT RAMED OSTA RAMPETOTOAS.
+
+Decryption key:
+
+{ } =      {I} = R    {R} = F
+{A} = A    {J} = W    {S} = E
+{B} = U    {K} = D    {T} = J
+{C} = V    {L} = K    {U} = T
+{D} = I    {M} = L    {V} = H
+{E} = B    {N} = Y    {W} = X
+{F} = C    {O} = N    {X} = O
+{G} = Q    {P} = S    {Y} = Z
+{H} = P    {Q} = G    {Z} = M
+
+
+Trial number: 8
+Acceptance rate: 0.2173
+Score function: 21.892
+
+Plaintext (best guess):
+
+AD NATURAH DEHESTION ASTD DOHEHY FY TLE PREDERJATION OW
+PROWITAFHE MOGIWISATIOND, EASL NEC WORM CIHH TENG IN A WUHHY-
+DTOSVEG SOUNTRY TO TAVE TLE PHASE OW, ANG WINAHHY TO EXTERMINATE, ITD
+OCN HEDD IMPROJEG PARENT-WORM ANG OTLER HEDD-WAJOUREG WORMD CITL
+CLISL IT SOMED INTO SOMPETITION.
+
+Decryption key:
+
+{ } =      {I} = S    {R} = W
+{A} = O    {J} = U    {S} = E
+{B} = F    {K} = D    {T} = V
+{C} = J    {L} = Z    {U} = T
+{D} = A    {M} = L    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = C    {O} = H    {X} = I
+{G} = Q    {P} = N    {Y} = B
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 9
+Acceptance rate: 0.2238
+Score function: 21.839
+
+Plaintext (best guess):
+
+OD NOTUROS DESELTIAN OLTD DASESY BY TFE PREDERZOTIAN AH
+PRAHITOBSE MAGIHILOTIAND, EOLF NEC HARM CISS TENG IN O HUSSY-
+DTALWEG LAUNTRY TA TOWE TFE PSOLE AH, ONG HINOSSY TA EXTERMINOTE, ITD
+ACN SEDD IMPRAZEG PORENT-HARM ONG ATFER SEDD-HOZAUREG HARMD CITF
+CFILF IT LAMED INTA LAMPETITIAN.
+
+Decryption key:
+
+{ } =      {I} = L    {R} = H
+{A} = A    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = W
+{C} = Z    {L} = V    {U} = T
+{D} = O    {M} = F    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = C    {O} = S    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 10
+Acceptance rate: 0.2190
+Score function: 21.886
+
+Plaintext (best guess):
+
+ID NITUHIS DESECTAON ICTD DOSESG PG TFE WHEDEHZITAON OR
+WHORATIPSE LOYARACITAOND, EICF NEM ROHL MASS TENY AN I RUSSG-
+DTOCBEY COUNTHG TO TIBE TFE WSICE OR, INY RANISSG TO EVTEHLANITE, ATD
+OMN SEDD ALWHOZEY WIHENT-ROHL INY OTFEH SEDD-RIZOUHEY ROHLD MATF
+MFACF AT COLED ANTO COLWETATAON.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = R
+{A} = O    {J} = U    {S} = E
+{B} = P    {K} = D    {T} = B
+{C} = Z    {L} = Q    {U} = T
+{D} = I    {M} = F    {V} = H
+{E} = V    {N} = Y    {W} = K
+{F} = M    {O} = S    {X} = A
+{G} = J    {P} = N    {Y} = X
+{H} = W    {Q} = G    {Z} = L

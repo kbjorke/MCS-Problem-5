@@ -1,0 +1,268 @@
+Time: 2015-04-03 10:36:35
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1000
+lambda_1 = 0.50 
+lambda_2 = 0.50
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0458
+Score function: 31.297
+
+Plaintext (best guess):
+
+AD NATPQAR DERECTION ACTD DORERY LY THE SQEDEQMATION OF
+SQOFITALRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FPRRY-
+DTOCVEG COPNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOPQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 2
+Acceptance rate: 0.0436
+Score function: 31.305
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY LY THE PQEDEQMATION OS
+PQOSITALRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE PRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IUPQOMEG PAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COUPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = U
+
+
+Trial number: 3
+Acceptance rate: 0.0438
+Score function: 31.305
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY LY THE PQEDEQMATION OS
+PQOSITALRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE PRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IUPQOMEG PAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COUPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = U
+
+
+Trial number: 4
+Acceptance rate: 0.0464
+Score function: 31.305
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY LY THE PQEDEQMATION OS
+PQOSITALRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE PRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IUPQOMEG PAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COUPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = U
+
+
+Trial number: 5
+Acceptance rate: 0.0435
+Score function: 31.305
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY LY THE PQEDEQMATION OS
+PQOSITALRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE PRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IUPQOMEG PAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COUPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = B
+{H} = P    {Q} = Y    {Z} = U
+
+
+Trial number: 6
+Acceptance rate: 0.0413
+Score function: 31.305
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY LY THE PQEDEQMATION OS
+PQOSITALRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE PRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IUPQOMEG PAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COUPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = U
+
+
+Trial number: 7
+Acceptance rate: 0.0435
+Score function: 31.305
+
+Plaintext (best guess):
+
+AD NATFQAR DERECTION ACTD DORERY LY THE PQEDEQMATION OS
+PQOSITALRE UOGISICATIOND, EACH NEW SOQU WIRR TENG IN A SFRRY-
+DTOCVEG COFNTQY TO TAVE THE PRACE OS, ANG SINARRY TO EXTEQUINATE, ITD
+OWN REDD IUPQOMEG PAQENT-SOQU ANG OTHEQ REDD-SAMOFQEG SOQUD WITH
+WHICH IT COUED INTO COUPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = F    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = B
+{H} = P    {Q} = Y    {Z} = U
+
+
+Trial number: 8
+Acceptance rate: 0.0422
+Score function: 31.270
+
+Plaintext (best guess):
+
+AS NATPQAR SERECTION ACTS SORERY LY THE BQESEQMATION OF
+BQOFITALRE UODIFICATIONS, EACH NEW FOQU WIRR TEND IN A FPRRY-
+STOCVED COPNTQY TO TAVE THE BRACE OF, AND FINARRY TO EXTEQUINATE, ITS
+OWN RESS IUBQOMED BAQENT-FOQU AND OTHEQ RESS-FAMOPQED FOQUS WITH
+WHICH IT COUES INTO COUBETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = P    {S} = E
+{B} = L    {K} = S    {T} = V
+{C} = M    {L} = G    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = J
+{F} = W    {O} = R    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = B    {Q} = Y    {Z} = U
+
+
+Trial number: 9
+Acceptance rate: 0.0507
+Score function: 31.270
+
+Plaintext (best guess):
+
+AS NATPQAR SERECTION ACTS SORERY LY THE BQESEQMATION OF
+BQOFITALRE UODIFICATIONS, EACH NEW FOQU WIRR TEND IN A FPRRY-
+STOCVED COPNTQY TO TAVE THE BRACE OF, AND FINARRY TO EXTEQUINATE, ITS
+OWN RESS IUBQOMED BAQENT-FOQU AND OTHEQ RESS-FAMOPQED FOQUS WITH
+WHICH IT COUES INTO COUBETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = P    {S} = E
+{B} = L    {K} = S    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = G
+{H} = B    {Q} = Y    {Z} = U
+
+
+Trial number: 10
+Acceptance rate: 0.0457
+Score function: 31.270
+
+Plaintext (best guess):
+
+AS NATPQAR SERECTION ACTS SORERY LY THE BQESEQMATION OF
+BQOFITALRE UODIFICATIONS, EACH NEW FOQU WIRR TEND IN A FPRRY-
+STOCVED COPNTQY TO TAVE THE BRACE OF, AND FINARRY TO EXTEQUINATE, ITS
+OWN RESS IUBQOMED BAQENT-FOQU AND OTHEQ RESS-FAMOPQED FOQUS WITH
+WHICH IT COUES INTO COUBETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = P    {S} = E
+{B} = L    {K} = S    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = D    {W} = G
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = B    {Q} = Y    {Z} = U

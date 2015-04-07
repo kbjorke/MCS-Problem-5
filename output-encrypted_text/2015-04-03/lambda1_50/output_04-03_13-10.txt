@@ -1,0 +1,268 @@
+Time: 2015-04-03 13:10:14
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 2000
+lambda_1 = 0.50 
+lambda_2 = 0.50
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0338
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = K
+{F} = W    {O} = V    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 2
+Acceptance rate: 0.0301
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = K
+{F} = W    {O} = V    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 3
+Acceptance rate: 0.0320
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = J
+{F} = W    {O} = V    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 4
+Acceptance rate: 0.0316
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = Z
+{F} = W    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 5
+Acceptance rate: 0.0314
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = J
+{F} = W    {O} = V    {X} = I
+{G} = K    {P} = N    {Y} = Q
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 6
+Acceptance rate: 0.0297
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = Z
+{F} = W    {O} = V    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 7
+Acceptance rate: 0.0312
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = K
+{F} = W    {O} = V    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 8
+Acceptance rate: 0.0353
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = K
+{F} = W    {O} = V    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 9
+Acceptance rate: 0.0303
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = K
+{F} = W    {O} = V    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = X    {Q} = G    {Z} = R
+
+
+Trial number: 10
+Acceptance rate: 0.0314
+Score function: 30.764
+
+Plaintext (best guess):
+
+AY NATUPAV YEVECTION ACTY YOVEVG LG THE XPEYEPMATION OS
+XPOSITALVE RODISICATIONY, EACH NEW SOPR WIVV TEND IN A SUVVG-
+YTOCBED COUNTPG TO TABE THE XVACE OS, AND SINAVVG TO EFTEPRINATE, ITY
+OWN VEYY IRXPOMED XAPENT-SOPR AND OTHEP VEYY-SAMOUPED SOPRY WITH
+WHICH IT COREY INTO CORXETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = L    {K} = Y    {T} = B
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = P
+{E} = F    {N} = D    {W} = K
+{F} = W    {O} = V    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = X    {Q} = G    {Z} = R

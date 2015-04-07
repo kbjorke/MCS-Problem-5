@@ -1,0 +1,268 @@
+Time: 2015-04-03 12:04:32
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 1500
+lambda_1 = 0.80 
+lambda_2 = 0.20
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0251
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = M    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = C
+{F} = F    {O} = V    {X} = O
+{G} = X    {P} = S    {Y} = W
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 2
+Acceptance rate: 0.0226
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = X    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = C
+{F} = F    {O} = V    {X} = O
+{G} = W    {P} = S    {Y} = M
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 3
+Acceptance rate: 0.0265
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = M    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = W
+{F} = F    {O} = V    {X} = O
+{G} = C    {P} = S    {Y} = X
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 4
+Acceptance rate: 0.0258
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = X    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = O
+{G} = W    {P} = S    {Y} = C
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 5
+Acceptance rate: 0.0281
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = W    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = O
+{G} = C    {P} = S    {Y} = X
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 6
+Acceptance rate: 0.0256
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = C    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = O
+{G} = X    {P} = S    {Y} = W
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 7
+Acceptance rate: 0.0276
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = W    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = X
+{F} = F    {O} = V    {X} = O
+{G} = C    {P} = S    {Y} = M
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 8
+Acceptance rate: 0.0232
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = C    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = X
+{F} = F    {O} = V    {X} = O
+{G} = M    {P} = S    {Y} = W
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 9
+Acceptance rate: 0.0268
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = X    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = M
+{F} = F    {O} = V    {X} = O
+{G} = C    {P} = S    {Y} = W
+{H} = H    {Q} = G    {Z} = T
+
+
+Trial number: 10
+Acceptance rate: 0.0267
+Score function: 36.561
+
+Plaintext (best guess):
+
+AD SANPRAV DEVEQNOUS AQND DUVEVG LG NKE HREDERBANOUS UJ
+HRUJONALVE TUYOJOQANOUSD, EAQK SEF JURT FOVV NESY OS A JPVVG-
+DNUQZEY QUPSNRG NU NAZE NKE HVAQE UJ, ASY JOSAVVG NU EINERTOSANE, OND
+UFS VEDD OTHRUBEY HARESN-JURT ASY UNKER VEDD-JABUPREY JURTD FONK
+FKOQK ON QUTED OSNU QUTHENONOUS.
+
+Decryption key:
+
+{ } =      {I} = Q    {R} = J
+{A} = U    {J} = P    {S} = E
+{B} = L    {K} = D    {T} = Z
+{C} = B    {L} = M    {U} = N
+{D} = A    {M} = K    {V} = R
+{E} = I    {N} = Y    {W} = W
+{F} = F    {O} = V    {X} = O
+{G} = C    {P} = S    {Y} = X
+{H} = H    {Q} = G    {Z} = T

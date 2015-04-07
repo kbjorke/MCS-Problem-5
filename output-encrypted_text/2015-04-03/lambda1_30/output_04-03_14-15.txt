@@ -1,0 +1,268 @@
+Time: 2015-04-03 14:15:56
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 2500
+lambda_1 = 0.30 
+lambda_2 = 0.70
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0230
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 2
+Acceptance rate: 0.0201
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 3
+Acceptance rate: 0.0209
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 4
+Acceptance rate: 0.0213
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = J
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 5
+Acceptance rate: 0.0209
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Z    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 6
+Acceptance rate: 0.0238
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 7
+Acceptance rate: 0.0212
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Q    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 8
+Acceptance rate: 0.0190
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 9
+Acceptance rate: 0.0211
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S
+
+
+Trial number: 10
+Acceptance rate: 0.0216
+Score function: 27.161
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = S

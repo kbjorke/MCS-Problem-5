@@ -1,0 +1,268 @@
+Time: 2015-04-03 16:50:06
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 4000
+lambda_1 = 0.30 
+lambda_2 = 0.70
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0260
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = Z
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 2
+Acceptance rate: 0.0205
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 3
+Acceptance rate: 0.0233
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = J
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 4
+Acceptance rate: 0.0207
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = K
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 5
+Acceptance rate: 0.0225
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 6
+Acceptance rate: 0.0236
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = Z
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 7
+Acceptance rate: 0.0226
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = J
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 8
+Acceptance rate: 0.0212
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = Z
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 9
+Acceptance rate: 0.0186
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = J    {P} = N    {Y} = B
+{H} = S    {Q} = Y    {Z} = U
+
+
+Trial number: 10
+Acceptance rate: 0.0204
+Score function: 26.961
+
+Plaintext (best guess):
+
+AD NATLQAR DERECTION ACTD DORERY PY THE SQEDEQMATION OF
+SQOFITAPRE UOGIFICATIOND, EACH NEW FOQU WIRR TENG IN A FLRRY-
+DTOCVEG COLNTQY TO TAVE THE SRACE OF, ANG FINARRY TO EXTEQUINATE, ITD
+OWN REDD IUSQOMEG SAQENT-FOQU ANG OTHEQ REDD-FAMOLQEG FOQUD WITH
+WHICH IT COUED INTO COUSETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = L    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = Q
+{E} = X    {N} = G    {W} = B
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = S    {Q} = Y    {Z} = U

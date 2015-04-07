@@ -1,0 +1,268 @@
+Time: 2015-04-03 08:54:33
+File of encrypted text: encrypted_text.txt
+
+Decryption parameters:
+N = 20000 
+Scaling parameter = 500
+lambda_1 = 0.20 
+lambda_2 = 0.80
+
+Ciphertext:
+
+DK PDUJVDO KSOSIUXAP DIUK KAOSOQ BQ UMS HVSKSVCDUXAP AR
+HVARXUDBOS ZANXRXIDUXAPK, SDIM PSF RAVZ FXOO USPN XP D RJOOQ-
+KUAITSN IAJPUVQ UA UDTS UMS HODIS AR, DPN RXPDOOQ UA SEUSVZXPDUS, XUK
+AFP OSKK XZHVACSN HDVSPU-RAVZ DPN AUMSV OSKK-RDCAJVSN RAVZK FXUM
+FMXIM XU IAZSK XPUA IAZHSUXUXAP.
+
+Number of trials: 10
+
+
+Trial number: 1
+Acceptance rate: 0.0992
+Score function: 25.004
+
+Plaintext (best guess):
+
+AS NATJUAR SERECTION ACTS SORERY PY THE QUESEUZATION OF
+QUOFITAPRE LODIFICATIONS, EACH NEW FOUL WIRR TEND IN A FJRRY-
+STOCVED COJNTUY TO TAVE THE QRACE OF, AND FINARRY TO EXTEULINATE, ITS
+OWN RESS ILQUOZED QAUENT-FOUL AND OTHEU RESS-FAZOJUED FOULS WITH
+WHICH IT COLES INTO COLQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = S    {T} = V
+{C} = Z    {L} = M    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = D    {W} = G
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = K
+{H} = Q    {Q} = Y    {Z} = L
+
+
+Trial number: 2
+Acceptance rate: 0.0934
+Score function: 25.062
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY BY THE QUEDEUMATION OF
+QUOFITABRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO ELTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = K    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = L    {N} = G    {W} = P
+{F} = W    {O} = R    {X} = I
+{G} = X    {P} = N    {Y} = Z
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 3
+Acceptance rate: 0.0959
+Score function: 25.067
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY PY THE QUEDEUMATION OS
+QUOSITAPRE LOGISICATIOND, EACH NEW SOUL WIRR TENG IN A SJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OS, ANG SINARRY TO EFTEULINATE, ITD
+OWN REDD ILQUOMEG QAUENT-SOUL ANG OTHEU REDD-SAMOJUEG SOULD WITH
+WHICH IT COLED INTO COLQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = F    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = B    {P} = N    {Y} = K
+{H} = Q    {Q} = Y    {Z} = L
+
+
+Trial number: 4
+Acceptance rate: 0.0896
+Score function: 25.066
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY PY THE QUEDEUMATION OF
+QUOFITAPRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = R    {X} = I
+{G} = L    {P} = N    {Y} = Z
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 5
+Acceptance rate: 0.0881
+Score function: 25.085
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY LY THE QUEDEUMATION OF
+QUOFITALRE SOGIFICATIOND, EACH NEW FOUS WIRR TENG IN A FJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OF, ANG FINARRY TO EXTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-FOUS ANG OTHEU REDD-FAMOJUEG FOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = J    {S} = E
+{B} = L    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = X    {N} = G    {W} = Z
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = P
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 6
+Acceptance rate: 0.0974
+Score function: 25.018
+
+Plaintext (best guess):
+
+AD NATJUAR DERECTION ACTD DORERY PY THE QUEDEUMATION OL
+QUOLITAPRE SOGILICATIOND, EACH NEW LOUS WIRR TENG IN A LJRRY-
+DTOCVEG COJNTUY TO TAVE THE QRACE OL, ANG LINARRY TO EFTEUSINATE, ITD
+OWN REDD ISQUOMEG QAUENT-LOUS ANG OTHEU REDD-LAMOJUEG LOUSD WITH
+WHICH IT COSED INTO COSQETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = L
+{A} = O    {J} = J    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = B    {U} = T
+{D} = A    {M} = H    {V} = U
+{E} = F    {N} = G    {W} = X
+{F} = W    {O} = R    {X} = I
+{G} = K    {P} = N    {Y} = Z
+{H} = Q    {Q} = Y    {Z} = S
+
+
+Trial number: 7
+Acceptance rate: 0.1015
+Score function: 24.993
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERZATION OS
+PROSITABLE MOGISICATIOND, EACH NEW SORM WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EXTERMINATE, ITD
+OWN LEDD IMPROZEG PARENT-SORM ANG OTHER LEDD-SAZOUREG SORMD WITH
+WHICH IT COMED INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = Z    {L} = F    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = K
+{F} = W    {O} = L    {X} = I
+{G} = J    {P} = N    {Y} = Q
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 8
+Acceptance rate: 0.1019
+Score function: 24.993
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERZATION OS
+PROSITABLE MOGISICATIOND, EACH NEW SORM WILL TENG IN A SULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OS, ANG SINALLY TO EFTERMINATE, ITD
+OWN LEDD IMPROZEG PARENT-SORM ANG OTHER LEDD-SAZOUREG SORMD WITH
+WHICH IT COMED INTO COMPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = S
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = Z    {L} = J    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = F    {N} = G    {W} = X
+{F} = W    {O} = L    {X} = I
+{G} = Q    {P} = N    {Y} = K
+{H} = P    {Q} = Y    {Z} = M
+
+
+Trial number: 9
+Acceptance rate: 0.1098
+Score function: 24.841
+
+Plaintext (best guess):
+
+AD NATURAS DESECTION ACTD DOSESY PY THE BREDERMATION OL
+BROLITAPSE FOGILICATIOND, EACH NEW LORF WISS TENG IN A LUSSY-
+DTOCVEG COUNTRY TO TAVE THE BSACE OL, ANG LINASSY TO EKTERFINATE, ITD
+OWN SEDD IFBROMEG BARENT-LORF ANG OTHER SEDD-LAMOUREG LORFD WITH
+WHICH IT COFED INTO COFBETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = L
+{A} = O    {J} = U    {S} = E
+{B} = P    {K} = D    {T} = V
+{C} = M    {L} = X    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = K    {N} = G    {W} = J
+{F} = W    {O} = S    {X} = I
+{G} = Z    {P} = N    {Y} = Q
+{H} = B    {Q} = Y    {Z} = F
+
+
+Trial number: 10
+Acceptance rate: 0.0909
+Score function: 25.049
+
+Plaintext (best guess):
+
+AD NATURAL DELECTION ACTD DOLELY BY THE PREDERMATION OF
+PROFITABLE SOGIFICATIOND, EACH NEW FORS WILL TENG IN A FULLY-
+DTOCVEG COUNTRY TO TAVE THE PLACE OF, ANG FINALLY TO EXTERSINATE, ITD
+OWN LEDD ISPROMEG PARENT-FORS ANG OTHER LEDD-FAMOUREG FORSD WITH
+WHICH IT COSED INTO COSPETITION.
+
+Decryption key:
+
+{ } =      {I} = C    {R} = F
+{A} = O    {J} = U    {S} = E
+{B} = B    {K} = D    {T} = V
+{C} = M    {L} = Z    {U} = T
+{D} = A    {M} = H    {V} = R
+{E} = X    {N} = G    {W} = Q
+{F} = W    {O} = L    {X} = I
+{G} = K    {P} = N    {Y} = J
+{H} = P    {Q} = Y    {Z} = S

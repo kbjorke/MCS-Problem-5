@@ -19,6 +19,7 @@
 \usepackage{changepage}
 \usepackage{listings}
 \usepackage[toc,page]{appendix}
+\usepackage{listingsutf8}
 
 \setlength{\parskip}{1em}
 \setlength{\parindent}{0pt}
@@ -173,6 +174,7 @@ $t$ as the iteration number:
 The scaling parameter $p$ is used to adjust the acceptance ratio, so that
 we can avoid a local maximum or avoid to much variations around a maximum.
 
+
 \section{English language properties}
 
 In order to use the MCMC decryption methods we need to find the transition
@@ -200,17 +202,17 @@ $\dots$, ``Z'' and also the frequency of the ordered pair of two
 characters ``XY''. At the end we normalized each row of the matrix $M(X,Y)$
 and the function $p(X)$ to 1.
 
-\begin{figure}[h!]
+\begin{figure}[h]
   \centering
-  \includegraphics[width=0.7\textwidth]{transprob_matrix-pg2600-.eps}
+  \includegraphics[width=0.8\textwidth]{transprob_matrix-pg2600-.eps}
   \caption{Transition probability matrix $M(X,Y)$ based on the text
     ``War and Peace'' by Lev Tolstoy. For comparison see \cite{Landgraf}.}
   \label{fig:TransProbMat}
 \end{figure}
 
-\begin{figure}[h!]
+\begin{figure}[h]
   \centering
-  \includegraphics[width=0.7\textwidth]{char_prob-pg2600-.eps}
+  \includegraphics[width=0.8\textwidth]{char_prob-pg2600-.eps}
   \caption{Character probabilities $p(X)$ based on the text
   ``War and Peace'' by Lev Tolstoy. For comparison see 
   \href{http://en.wikipedia.org/wiki/Letter_frequency}{http://en.wikipedia.org/wiki/Letter\_frequency}}
@@ -490,13 +492,34 @@ deduce one or more of the characters in the code key as we did.
   
   \section{Decryption output for the example text}
  
+  \verb+output_04-01_13-33.txt+
+  \lstinputlisting[language=r, firstline=1, lastline=57]
+  {../output-example_encrypted_text/output_04-01_13-33.txt}
+
   \verb+output_04-01_13-32.txt+
   \lstinputlisting[language=r]
   {../output-example_encrypted_text/output_04-01_13-32.txt}
 
   \section{Decryption output for the given ciphertext}
   
+  \verb+output_04-03_16-11.txt+
+  \lstinputlisting[language=r, firstline=1, lastline=43]
+  {../output-encrypted_text/2015-04-03/lambda1_10/output_04-03_16-11.txt}
+  
   \section{Code Listings}
+
+%  \verb+code_format.r+
+%  \lstinputlisting[language=r]
+%  {../code_format.r}
+
+  \verb+text_stats.r+
+  \lstinputlisting[language=r]
+  {../text_stats.r}
+
+  \verb+decrypt.r+
+  \lstinputlisting[language=r]
+  {../decrypt.r}
+
 \end{appendix}
 
 

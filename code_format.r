@@ -1,5 +1,7 @@
 # By: Kristian Bjoerke
 
+# Function to change the format of the text into a format that
+# only contains the characters that we want to study in the encryption.
 code_format = function(text)
 {
     # Create an list of the characters for the code:

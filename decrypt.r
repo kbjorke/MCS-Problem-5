@@ -2,36 +2,29 @@
 
 source("code_format.r")
 
-
-filename = "encrypted_text.txt"
+# Filename of ciphertext:
+filename = "example_encrypted_text.txt"
 
 # Source text for transition and character probabilities:
 text_stats_source = "pg2600.txt"
 
-# Number of Trial:
-trials = 10
+# Number of Trials:
+trials = 2
 
 # Number of Monte Carlo samples:
 N = 20000
 
-# Scaling paramter:
-#p = 1500
-p_list = c(500,1000,1500,2000,2500,3000,4000)
+# Scaling parameter:
+p = 3000
 
 # Score function paramters:
-#lambda1 = 0.15
-#lambda2 = 0.85
-lambda1_list = c(0.05,0.10,0.15,0.20,0.25,0.30,0.50,0.8)
+lambda1 = 0.10
+lambda2 = 0.90
 
-for( p in p_list )
-{
-for( lambda1 in lambda1_list )
-{
-lambda2 = 1-lambda1
-
+#Time stamp:
 time = as.POSIXlt(Sys.time(), "GMT")
 
-# Score funcrtion:
+# Definition of Score funcrtion:
 score_function = function(formated_text, key, transprob_mat)
 {
     num_char =  length(formated_text)
@@ -63,6 +56,7 @@ character_list = input[[2]]
 transprob_matrix = read.table(sprintf("transprob_matrix-%s-.txt", 
                                       gsub(".txt", "", text_stats_source)))
 
+# FOrmat the transprob_matrix correctly
 transprob_matrix = data.matrix(transprob_matrix)
 transprob_matrix = matrix(transprob_matrix, nrow=length(character_list),
                           ncol=length(character_list),
@@ -104,33 +98,35 @@ initial_rel_char_freq = array(initial_rel_char_freq/num_char,
                               dimnames=list(character_list))
 
 
+# Sort char frequencies for source text and for encrypted text
 sorted_char_freq_source = dimnames(sort(char_prob, decreasing=TRUE))
 sorted_char_freq_enctext = dimnames(sort(initial_rel_char_freq, 
                                          decreasing=TRUE))
 
+# Create array for initial key
 initial_key = array(data=NA, dim=length(character_list),
                     dimnames=list(character_list))
 
 
+# Create initial key based on sorted frequency arrays
 for( i in 1:length(character_list) ) 
 {
     initial_key[sorted_char_freq_enctext[[1]][i]] = 
                                     sorted_char_freq_source[[1]][i]
 }
 
+# Initial values:
 code_key = initial_key
-
-    
-
 score_func = score_function(formated_ciphertext, code_key, transprob_matrix)
 
 
-
-
-folder_name = sprintf("output-%s/%d-%02d-%02d/", gsub(".txt", "", filename),
+# Create folder name for output, based on time stamp and source file:
+folder_name = sprintf("output-%s/%d-%02d-%02d/", 
+                      gsub(".txt", "", filename),
                       (time$year+1900),(time$mon+1), time$mday)
 
-dir.create(file.path(folder_name), showWarning=FALSE)
+# Create folder, if not present:
+dir.create(file.path(folder_name), showWarning=FALSE, recursive=TRUE)
 
 output_file = file(sprintf("%soutput_%02d-%02d_%02d-%02d.txt", folder_name,
                                    (time$mon+1), time$mday,
@@ -151,6 +147,7 @@ write(sprintf("\nNumber of trials: %d", trials),
       file=output_file, append=TRUE)
 
 
+# Program loop:
 for( t in 1:trials )
 {
     acceptance = 0
@@ -158,9 +155,10 @@ for( t in 1:trials )
     best_score_func = 0
 
     print("")
+    # MCMC loop:
     for( i in 1:N )
     {
-        # Counter:
+        # Counter with output to screen:
         if( i %% floor(N/10) == 0 )
         {
             print(sprintf("%d %s", ceiling(100*(i/N)), "%"))
@@ -176,6 +174,7 @@ for( t in 1:trials )
         char_swap = sample(character_list[2:length(character_list)],2)
         #char_swap = sample(character_list,2)
 
+        # Create new key based on old by swapping characters:
         new_code_key = chartr(paste(char_swap, collapse=''), 
                               paste(rev(char_swap), collapse=''), 
                               code_key)
@@ -205,7 +204,6 @@ for( t in 1:trials )
                 acceptance = acceptance + 1
             }
         }
-        #print(score_func)
 
         if( score_func > best_score_func )
         {
@@ -219,7 +217,6 @@ for( t in 1:trials )
 
     plaintext = array(data=NA, dim=length(ciphertext))
 
-    #print(ciphertext)
     print(best_score_func)
     for( i in 1:length(ciphertext) )
     {
@@ -256,6 +253,3 @@ for( t in 1:trials )
 }
 
 close(output_file)
-
-}
-}
